@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zach Compton"
-  avatar           : "~/images/bio-photo.jpg"
+  avatar           : "bio-photo.jpg"
   bio              : "Evolutionary Biology PhD Student at the Arizona Cancer Evolution Center (ACE)"
   location         : "Tempe, AZ"
   employer         :
