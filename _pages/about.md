@@ -9,9 +9,9 @@ redirect_from:
 toc: true
 ---
 
-#R Tutorial #1
+# R Tutorial #1
 
-##Installing R and Rstudio
+## Installing R and Rstudio
 
 - [Programming Style](/_pages/cv)
 - [Programming Style 2](/cv/)
@@ -23,49 +23,14 @@ toc: true
   - [Individual Exercise Solution](/files/html/teaching-materials/Multilevel_GLMs_Key.html)
 
 like WordPress, [Wix](https://www.wix.com)
+-like WordPress, [Wix](https://www.wix.com)
+	-like WordPress, [Wix](https://www.wix.com)
+	
+	[//] # (Comment Test)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+,,,
+Test
+,,,
 
 If you're an academic, you need a website. Obviously I agree with this since you're reading this on my website, but if you don't have one, you should get one. Most universities these days provide a free option, usually powered by [WordPress](https://wordpress.org/) (both [WashU](https://sites.wustl.edu/) and [UNC](http://web.unc.edu/) use WordPress for their respective offerings). While these sites are quick to set up and come with the prestige of a `.edu` URL, they have several drawbacks that have been [extensively](https://townsendcenter.berkeley.edu/blog/personal-academic-webpages-how-tos-and-tips-better-site) [written](https://martinlea.com/four-reasons-why-faculty-profile-pages-are-no-substitute-for-personal-academic-website/) [on](https://theacademicdesigner.com/2019/personal-academic-website-benefits/).
 <!--more-->
