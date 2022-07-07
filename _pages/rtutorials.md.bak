@@ -1,16 +1,17 @@
 ---
-permalink: /rtutorials
+permalink: /
 title: 'ACE Scholars R Tutorials'
 excerpt: "R Tutorials"
 author_profile: true
 redirect_from: 
-  - /r/
+  - /about/
+  - /about.html
 toc: true
 ---
 
-# R Tutorial #1
+#R Tutorial #1
 
-## Installing R and Rstudio
+##Installing R and Rstudio
 
 - [Programming Style](/_pages/cv)
 - [Programming Style 2](/cv/)
