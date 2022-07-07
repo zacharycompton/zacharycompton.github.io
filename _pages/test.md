@@ -3,6 +3,7 @@ permalink: /test
 title: 'ACE Scholars R Tutorial Portal'
 excerpt: "R Tutorials"
 toc: true
+nav_list: true
 author_profile: true
 redirect_from:
 ---
@@ -28,4 +29,6 @@ To learn R through ACE Scholar R Tutorials, you will first have to do four key s
 	
 - Create Github Account
 	- All Users: [Click Here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+	
+### Test
 		
