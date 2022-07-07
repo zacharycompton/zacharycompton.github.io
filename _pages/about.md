@@ -3,7 +3,7 @@ permalink: /
 title: 'ACE Scholars R Tutorials'
 excerpt: "R Tutorials"
 toc: true
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
