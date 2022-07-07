@@ -2,47 +2,12 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-toc: true
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
-
-
-### Test Test Test
-
-- test
-	- test
-		- test
-
-# R Tutorial #1
-
-## Installing R and Rstudio
-
-- [Programming Style](/_pages/cv)
-- [Programming Style 2](/cv/)
-- [Programming Style 2](cv)
-- [Functional Programming in R](/files/html/teaching-materials/Functional_Programming)
-- [Multilevel Linear Models](/files/html/teaching-materials/Multilevel_Linear_Models)
-  - [Individual Exercise Solution](/files/html/teaching-materials/Multilevel_Linear_Models_Key.html)
-- [Multilevel Generalized Linear Models](/files/html/teaching-materials/Multilevel_GLMs)
-  - [Individual Exercise Solution](/files/html/teaching-materials/Multilevel_GLMs_Key.html)
-
-like WordPress, [Wix](https://www.wix.com)
--like WordPress, [Wix](https://www.wix.com)
-	-like WordPress, [Wix](https://www.wix.com)
-	
-	[//] # (Comment Test)
-
-```
-Test
-```
-
-```test
-Test
-```
 
 Education
 ======
