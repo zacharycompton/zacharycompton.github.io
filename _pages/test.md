@@ -5,7 +5,9 @@ output:
 permalink: /test
 title: 'ACE Scholars R Tutorial Portal'
 excerpt: "R Tutorials"
+toc: yes
 toc: true
+autoCollapseToc: true
 author_profile: true
 redirect_from:
 ---
