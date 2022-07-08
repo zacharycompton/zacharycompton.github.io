@@ -9,10 +9,10 @@ redirect_from:
   - /about.html
 ---
 
-## <i class="fas fa-fw fa-box-open"></i> <i class="fas fa-fw fa-code" aria-hidden="true"></i> Installation of R, Rstudio, GIT, and Github account
+## <i class="fas fa-fw fa-box-open"></i> Installation of R, Rstudio, GIT, and Github
 To learn R through ACE Scholar R Tutorials, follow these four key steps on your machine: install R, install R Studio, install GIT, and create a Github account.
 
-1. Installing R and Rstudio
+1. Installing R and Rstudio Software
 	- Windows Users:
 		1. Install R: [Click Here](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-windows-10)
 		2. Install Rstudio: [Click Here](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio)
@@ -25,9 +25,12 @@ To learn R through ACE Scholar R Tutorials, follow these four key steps on your 
 		1. Install R: [Click Here](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-ubuntu-19.04/18.04/16.04)
 		2. Install Rstudio: [Click Here](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio-and-r-packages)
 		
-2. Installing GIT
+2. Installing GIT Software
 	- All Users: [Click Here](https://github.com/git-guides/install-git)
 	
 3. Create Github Account
 	- All Users: [Click Here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 		
+## <i class="fas fa-fw fa-video"></i> Recommended Video Orientations
+
+## <i class="fas fa-fw fa-code"></i> Recommended R Introductions:
