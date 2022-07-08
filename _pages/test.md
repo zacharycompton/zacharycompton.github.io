@@ -1,9 +1,11 @@
 ---
+output:
+  html_document:
+    toc: true
 permalink: /test
 title: 'ACE Scholars R Tutorial Portal'
 excerpt: "R Tutorials"
 toc: true
-nav_list: true
 author_profile: true
 redirect_from:
 ---
