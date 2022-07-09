@@ -35,9 +35,12 @@ To learn R through ACE Scholar R Tutorials, follow these four key steps on your 
 	- All Users: [Click Here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 		
 ## <i class="fas fa-fw fa-video"></i> Recommended Video Orientations
+
+**Notice!** Please keep in mind that a majority of your work will happen in RStudio, and that R and GIT installations are just codebases that support RStudio and Github
+{: .notice}
+
 - Quick R Summary: [Why you should use R](https://www.youtube.com/watch?v=9kYUGMg_14s&ab_channel=RProgramming101)
 - Quick RStudio Summary: [Introduction to RStudio](https://www.youtube.com/watch?v=5YmcEYTSN7k&ab_channel=RTutorials)
-- Quick GIT Summary:
-- Quick Github Summary:
+- Quick Github Summary: [Github Tutorial](https://www.youtube.com/watch?v=iv8rSLsi1xo&ab_channel=AnsonAlexander)
 
 ## <i class="fas fa-fw fa-code"></i> Recommended R Introductions
