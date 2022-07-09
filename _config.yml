@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zachary Compton" # ( | Comparative Oncology)
+title                    : "Zachary Compton | Comparative Oncology"
 title_separator          : "-"
 name                     : &name "Zachary Compton"
 description              : &description ""
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zach Compton"
-  avatar           : "bio-photo.jpg"
+  avatar           : "zcomp.jpg"
   bio              : "Evolutionary Biology PhD Student at the Arizona Cancer Evolution Center (ACE)"
   location         : "Tempe, AZ"
   employer         :
