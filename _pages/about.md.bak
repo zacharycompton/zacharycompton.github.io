@@ -44,3 +44,6 @@ To learn R through ACE Scholar R Tutorials, follow these four key steps on your 
 - Quick Github Summary: [Github Tutorial](https://www.youtube.com/watch?v=iv8rSLsi1xo&ab_channel=AnsonAlexander)
 
 ## <i class="fas fa-fw fa-code"></i> Recommended R Introductions
+
+- [Datacamp: Free Intro to R Basics](https://campus.datacamp.com/courses/free-introduction-to-r/chapter-1-intro-to-basics-1?ex=1)
+	- A very quick course on arithmatic, variables, and data types in R

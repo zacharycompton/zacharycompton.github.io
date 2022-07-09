@@ -47,3 +47,6 @@ To learn R through ACE Scholar R Tutorials, follow these four key steps on your 
 
 - [Datacamp: Free Intro to R Basics](https://campus.datacamp.com/courses/free-introduction-to-r/chapter-1-intro-to-basics-1?ex=1)
 	- A very quick course on arithmatic, variables, and data types in R
+	
+- [Codecademy: Free Introduction to R](https://www.codecademy.com/courses/learn-r/lessons/introduction-to-r/exercises/why-r)
+	- An alternative to Datacamp that offers a similar integrated experience
