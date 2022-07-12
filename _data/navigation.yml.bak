@@ -7,10 +7,10 @@ main:
     url: https://cancer-insights.asu.edu/
         
   - title: "R Tutorials"
-    url: /rtutorials/
+    url: /rtutorials
     
   - title: "CV"
-    url: /cv/
+    url: /cv
     
   #- title: "Media"
     #url: #/media/
