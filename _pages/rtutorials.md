@@ -13,6 +13,8 @@ redirect_from:
 <br>
 <i class="fas fa-fw fa-list"></i> Quick Index
 
+- <a href="" target="_blank"></a> <!-- Not sure why this has to be here, before {:toc] but it does -->
+
 {:toc}
 
 ## <i class="fas fa-fw fa-box-open"></i> Installation of R, Rstudio, GIT, and Github
