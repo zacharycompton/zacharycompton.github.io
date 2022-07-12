@@ -1,6 +1,6 @@
 ---
 permalink: /rtutorials/
-title: '<i class="fas fa-fw area-chart"></i> ACE Scholars R Tutorial Portal'
+title: '<i class="fas fa-fw fa-area-chart"></i> ACE Scholars R Tutorial Portal'
 excerpt: "R Tutorials"
 toc: true
 author_profile: false
@@ -53,7 +53,7 @@ To learn R through ACE Scholar R Tutorials, follow these four key steps on your 
 - Quick Github Summary: <a href="https://www.youtube.com/watch?v=iv8rSLsi1xo&ab_channel=AnsonAlexander" target="_blank">Github Tutorial</a>
 
 <a name="RIntro"></a>
-## <i class="fas fa-fw fa-code"></i> Recommended R Code Introductions
+## <i class="fas fa-fw fa-code"></i> Beginner R Code Introductions
 
 - <a href="https://campus.datacamp.com/courses/free-introduction-to-r/chapter-1-intro-to-basics-1?ex=1" target="_blank">Datacamp: Free Intro to R Basics</a>
 	- A very quick course on arithmatic, variables, and data types in R
@@ -62,10 +62,12 @@ To learn R through ACE Scholar R Tutorials, follow these four key steps on your 
 	- An alternative to Datacamp that offers a similar integrated experience
 
 <a name="RIntro"></a>
-## <i class="fas fa-fw fa-code"></i> <i class="fas fa-fw fa-code"></i> Intermediate R Code Resources
+## <i class="fas fa-fw fa-code"></i><i class="fas fa-fw fa-code"></i> Intermediate R Code Resources
 
 - Swirl: <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
 
 - Big Book of R: <a href="https://www.bigbookofr.com/" target="_blank">An Index of R Books</a>
 
 - YaRrr: <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
+
+## <i class="fas fa-fw fa-code"></i><i class="fas fa-fw fa-code"></i><i class="fas fa-fw fa-code"></i> Advanced R Code Resources
