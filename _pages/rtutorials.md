@@ -15,6 +15,9 @@ redirect_from:
 
 - <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
 
+- <a href="https://www.bigbookofr.com/" target="_blank">An Index of R Books</a>
+
+- <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
 {:toc}
 
 ## <i class="fas fa-fw fa-box-open"></i> Installation of R, Rstudio, GIT, and Github
