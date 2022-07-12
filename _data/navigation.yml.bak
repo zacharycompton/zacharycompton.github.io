@@ -1,13 +1,13 @@
 # main links links
 main:
-  #- title: "About Me"
-    #url: #/biography/  
+  - title: "About"
+    url: /
     
   - title: "ACE Scholars"
     url: https://cancer-insights.asu.edu/
         
   - title: "R Tutorials"
-    url: /about/
+    url: /rtutorials/
     
   - title: "CV"
     url: /cv/

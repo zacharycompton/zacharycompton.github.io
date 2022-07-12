@@ -5,8 +5,8 @@ excerpt: "R Tutorials"
 toc: true
 author_profile: false
 redirect_from: 
-  - /rtutorial/
-  - /r/
+  - /rtutorial
+  - /r
 ---
 
 [Test](#RIntro)
