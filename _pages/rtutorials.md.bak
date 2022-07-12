@@ -1,5 +1,5 @@
 ---
-permalink: /rtutorials
+permalink: /rtutorials/
 title: 'ACE Scholars R Tutorial Portal'
 excerpt: "R Tutorials"
 toc: true
@@ -7,6 +7,8 @@ author_profile: false
 redirect_from: 
   - /rtutorial
   - /r
+  - /rtutorials.html
+  - /rtutorials
 ---
 
 [Test](#RIntro)

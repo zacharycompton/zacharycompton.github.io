@@ -11,8 +11,6 @@ redirect_from:
   - /rtutorials
 ---
 
-[Test](#RIntro)
-
 ## <i class="fas fa-fw fa-box-open"></i> Installation of R, Rstudio, GIT, and Github
 To learn R through ACE Scholar R Tutorials, follow these four key steps on your machine: install R, install R Studio, install GIT, and create a Github account.
 
@@ -20,24 +18,26 @@ To learn R through ACE Scholar R Tutorials, follow these four key steps on your 
 {: .notice}
 
 1. Installing R and Rstudio Software
-	- Windows Users:
-		1. Install R: [Click Here](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-windows-10)
-		2. Install Rstudio: [Click Here](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio)
+	- Windows Users: Install R: [Click Here](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-windows-10)
 		
-	- Mac OSX Users:
-		1. Install R: [Click Here](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-mac-osx)
-		2. Install Rstudio: [Click Here](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio-and-r-packages)
+	- Mac OSX Users: Install R: [Click Here](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-mac-osx)
 		
-	- Ubuntu Users:
-		1. Install R: [Click Here](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-ubuntu-19.04/18.04/16.04)
-		2. Install Rstudio: [Click Here](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio-and-r-packages)
+	- Ubuntu Users: Install R: [Click Here](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-ubuntu-19.04/18.04/16.04)
+
+2. Installing R and Rstudio Software
+	- Windows Users: Install Rstudio: [Click Here](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio)
 		
-2. Installing GIT Software
+	- Mac OSX Users: Install Rstudio: [Click Here](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio-and-r-packages)
+		
+	- Ubuntu Users: Install Rstudio: [Click Here](https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio-and-r-packages)
+		
+3. Installing GIT Software
 	- All Users: [Click Here](https://github.com/git-guides/install-git)
 	
-3. Create Github Account
+4. Create Github Account
 	- All Users: [Click Here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 		
+<a name="ROrientations"></a>
 ## <i class="fas fa-fw fa-video"></i> Recommended Video Orientations
 
 **Notice!** Please keep in mind that a majority of your work will happen in RStudio, and that R and GIT installations are just codebases that support RStudio and Github
