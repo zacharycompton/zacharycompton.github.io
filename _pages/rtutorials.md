@@ -13,7 +13,7 @@ redirect_from:
 <br>
 <i class="fas fa-fw fa-list"></i> Quick Index
 
-- <a href="" target="_blank"></a> <!-- Not sure why this has to be here, before {:toc] but it does -->
+- <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
 
 {:toc}
 
