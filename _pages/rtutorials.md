@@ -10,7 +10,7 @@ redirect_from:
   - /rtutorials.html
   - /rtutorials
 ---
-
+<br>
 <i class="fas fa-fw fa-list"></i> Quick Index
 
 - <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
@@ -68,8 +68,8 @@ To learn R through ACE Scholar R Tutorials, follow these four key steps on your 
 <a name="RIntro"></a>
 ## <i class="fas fa-fw fa-code"></i> <i class="fas fa-fw fa-code"></i> Intermediate R Code Resources
 
-- <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
+- Swirl: <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
 
-- <a href="https://www.bigbookofr.com/" target="_blank">An Index of R Books</a>
+- Big Book of R: <a href="https://www.bigbookofr.com/" target="_blank">An Index of R Books</a>
 
-- <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
+- YaRrr: <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
