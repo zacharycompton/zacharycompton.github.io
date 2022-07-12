@@ -10,7 +10,6 @@ redirect_from:
   - /rtutorials.html
   - /rtutorials
 ---
-<a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R/a>
 ## Index
 {:toc}
 
@@ -64,9 +63,10 @@ To learn R through ACE Scholar R Tutorials, follow these four key steps on your 
 
 - <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
 
-- <a href="https://www.bigbookofr.com/" target="_blank">An Index of R Books/a>
+- <a href="https://www.bigbookofr.com/" target="_blank">An Index of R Books</a>
 
-- <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R/a>
+- <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
+{:toc}
 	
 ## Index
 {:toc}
