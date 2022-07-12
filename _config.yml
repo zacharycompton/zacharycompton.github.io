@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zachary Compton | Comparative Oncology"
+title                    : "Zachary Compton"  #| Comparative Oncology
 title_separator          : "-"
 name                     : &name "Zachary Compton"
 description              : &description ""
@@ -209,6 +209,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      toc: true
   # _teaching
   - scope:
       path: ""
