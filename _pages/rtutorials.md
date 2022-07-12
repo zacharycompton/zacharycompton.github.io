@@ -10,7 +10,7 @@ redirect_from:
   - /rtutorials.html
   - /rtutorials
 ---
-### <i class="fas fa-fw fa-list"></i> Quick Index
+<i class="fas fa-fw fa-list"></i> Quick Index
 
 - <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
 
