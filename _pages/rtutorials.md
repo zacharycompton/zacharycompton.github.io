@@ -1,6 +1,6 @@
 ---
 permalink: /rtutorials/
-title: '<i class="fas fa-fw fa-area_chart"></i> ACE Scholars R Tutorial Portal'
+title: '<i class="fas fa-fw fa-area-chart"></i> ACE Scholars R Tutorial Portal'
 excerpt: "R Tutorials"
 toc: true
 author_profile: false
@@ -10,6 +10,7 @@ redirect_from:
   - /rtutorials.html
   - /rtutorials
 ---
+
 <i class="fas fa-fw fa-list"></i> Quick Index
 
 - <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
