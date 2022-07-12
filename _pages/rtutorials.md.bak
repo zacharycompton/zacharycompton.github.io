@@ -1,6 +1,6 @@
 ---
 permalink: /rtutorials/
-title: '<i class="fas fa-fw fa-box-open"></i> ACE Scholars R Tutorial Portal'
+title: '<i class="fas fa-fw fa-area_chart"></i> ACE Scholars R Tutorial Portal'
 excerpt: "R Tutorials"
 toc: true
 author_profile: false
@@ -10,7 +10,13 @@ redirect_from:
   - /rtutorials.html
   - /rtutorials
 ---
-## Index
+### <i class="fas fa-fw fa-list"></i> Quick Index
+
+- <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
+
+- <a href="https://www.bigbookofr.com/" target="_blank">An Index of R Books</a>
+
+- <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
 {:toc}
 
 ## <i class="fas fa-fw fa-box-open"></i> Installation of R, Rstudio, GIT, and Github
@@ -50,7 +56,7 @@ To learn R through ACE Scholar R Tutorials, follow these four key steps on your 
 - Quick Github Summary: <a href="https://www.youtube.com/watch?v=iv8rSLsi1xo&ab_channel=AnsonAlexander" target="_blank">Github Tutorial</a>
 
 <a name="RIntro"></a>
-## <i class="fas fa-fw fa-code"></i> Recommended R Introductions
+## <i class="fas fa-fw fa-code"></i> Recommended R Code Introductions
 
 - <a href="https://campus.datacamp.com/courses/free-introduction-to-r/chapter-1-intro-to-basics-1?ex=1" target="_blank">Datacamp: Free Intro to R Basics</a>
 	- A very quick course on arithmatic, variables, and data types in R
@@ -59,7 +65,7 @@ To learn R through ACE Scholar R Tutorials, follow these four key steps on your 
 	- An alternative to Datacamp that offers a similar integrated experience
 
 <a name="RIntro"></a>
-## <i class="fas fa-fw fa-code"></i> <i class="fas fa-fw fa-code"></i> Intermediate R Resources
+## <i class="fas fa-fw fa-code"></i> <i class="fas fa-fw fa-code"></i> Intermediate R Code Resources
 
 - <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
 
