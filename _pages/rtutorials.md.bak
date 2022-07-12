@@ -26,14 +26,14 @@ To learn R through ACE Scholar R Tutorials, follow these four key steps on your 
 **Notice!** Please let us know in discord if you find any broken links, outdated info, or errors, Thanks!
 {: .notice}
 
-1. Installing R and Rstudio Software
+1. Installing R
 	- Windows Users: Install R: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-windows-10" target="_blank">Click Here</a>
 		
 	- Mac OSX Users: Install R: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-mac-osx" target="_blank">Click Here</a>
 		
 	- Ubuntu Users: Install R: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-ubuntu-19.04/18.04/16.04" target="_blank">Click Here</a>
 
-2. Installing R and Rstudio Software
+2. Installing Rstudio Software
 	- Windows Users: Install Rstudio: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio" target="_blank">Click Here</a>
 		
 	- Mac OSX Users: Install Rstudio: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio-and-r-packages" target="_blank">Click Here</a>
