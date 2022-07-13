@@ -1,6 +1,6 @@
 ---
 permalink: /rtutorials/
-title: '<i class="fa fa-address-book-o" aria-hidden="true"></i> ACE Scholars R Tutorial Portal'
+title: '<i class="fas fa-fw fa-box-open"></i> <i class="fas fa-fw fa-bar-chart-o"></i> <i class="fas fa-fw fa-pie-chart"></i>  ACE Scholars R Tutorial Portal'
 excerpt: "R Tutorials"
 toc: true
 author_profile: false
@@ -20,7 +20,7 @@ redirect_from:
 - <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
 {:toc}
 
-## <i class="fas fa-fw fa-box-open"></i> Installation of R, Rstudio, GIT, and Github<i class="fas fa-fw fa-area-chart"></i>
+## <i class="fas fa-fw fa-box-open"></i> Installation of R, Rstudio, GIT, and Github
 To learn R through ACE Scholar R Tutorials, follow these four key steps on your machine: install R, install R Studio, install GIT, and create a Github account.
 
 **Notice!** Please let us know in discord if you find any broken links, outdated info, or errors, Thanks!
