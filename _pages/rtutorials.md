@@ -25,10 +25,6 @@ redirect_from:
 {: .notice}
 
 1. Installing R
-	- Windows Users: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-windows-10" target="_blank">Install R</a>
-	- Mac OSX Users: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-mac-osx" target="_blank">Install R</a>
-	- Ubuntu Users: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-ubuntu-19.04/18.04/16.04" target="_blank">Install R</a>                                                             |
-	
 	| Operating System  | Guide	 |
 	| --------          | ------ |
 	| Windows           | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-windows-10" target="_blank">Install R</a>   |
