@@ -11,6 +11,7 @@ redirect_from:
   - /rtutorials3
 ---
 ### [Installation Page](/rtutorials/) > [Beginner R Tutorials](/rtutorials2/) > Zach's R Tutorials
+<br>
 <i class="fas fa-fw fa-list"></i> Table of Contents
 - <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
 - <a href="https://www.bigbookofr.com/" target="_blank">An Index of R Books</a>
