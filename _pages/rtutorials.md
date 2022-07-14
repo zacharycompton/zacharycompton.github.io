@@ -25,14 +25,14 @@ redirect_from:
 {: .notice}
 
 1. Installing R
-	- Windows Users: Install R: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-windows-10" target="_blank">Click Here</a>
-	- Mac OSX Users: Install R: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-mac-osx" target="_blank">Click Here</a>
-	- Ubuntu Users: Install R: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-ubuntu-19.04/18.04/16.04" target="_blank">Click Here</a>
+	- Windows Users: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-windows-10" target="_blank">Install R</a>
+	- Mac OSX Users: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-mac-osx" target="_blank">Install R</a>
+	- Ubuntu Users: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-ubuntu-19.04/18.04/16.04" target="_blank">Install R</a>
 
 2. Installing Rstudio Software
-	- Windows Users: Install Rstudio: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio" target="_blank">Click Here</a>
-	- Mac OSX Users: Install Rstudio: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio-and-r-packages" target="_blank">Click Here</a>
-	- Ubuntu Users: Install Rstudio: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio-and-r-packages" target="_blank">Click Here</a>
+	- Windows Users: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio" target="_blank">Install Rstudio</a>
+	- Mac OSX Users: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio-and-r-packages" target="_blank">Install Rstudio</a>
+	- Ubuntu Users: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio-and-r-packages" target="_blank">Install Rstudio</a>
 		
 3. Installing GIT Software
 	- All Users: <a href="https://github.com/git-guides/install-git" target="_blank">Click Here</a>
