@@ -10,8 +10,7 @@ redirect_from:
   - /rtutorials.html
   - /rtutorials
 ---
-<br>
-## [Installation Page](/rtutorials/) > Beginner R Tutorials > [Zach's R Tutorials](/rtutorials3/)
+### Installation Page > [Beginner R Tutorials](/rtutorials2/ > [Zach's R Tutorials](/rtutorials3/)
 <br>
 <i class="fas fa-fw fa-list"></i> Quick Index
 - <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
@@ -68,7 +67,3 @@ redirect_from:
 - Big Book of R: <a href="https://www.bigbookofr.com/" target="_blank">An Index of R Books</a>
 
 - YaRrr: <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
-
-### <i class="fas fa-fw fa-code"></i><i class="fas fa-fw fa-code"></i><i class="fas fa-fw fa-code"></i> Advanced R Code Resources
-
-- Coming Soon
