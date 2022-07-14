@@ -1,14 +1,14 @@
 ---
-permalink: /rtutorials/
+permalink: /rtutorials2/
 title: '<i class="fas fa-fw fa-chart-area"></i> ACE Scholars R Tutorial Portal'
 excerpt: "R Tutorials"
-toc: true
+toc: false
 author_profile: false
 redirect_from: 
-  - /rtutorial
-  - /r
-  - /rtutorials.html
-  - /rtutorials
+  - /rtutorial2
+  - /r2
+  - /rtutorials2.html
+  - /rtutorials2
 ---
 <br>
 <i class="fas fa-fw fa-list"></i> Quick Index

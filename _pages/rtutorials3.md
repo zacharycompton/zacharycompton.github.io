@@ -1,15 +1,17 @@
 ---
-permalink: /rtutorials/
+permalink: /rtutorials3/
 title: '<i class="fas fa-fw fa-chart-area"></i> ACE Scholars R Tutorial Portal'
 excerpt: "R Tutorials"
-toc: true
+toc: false
 author_profile: false
 redirect_from: 
-  - /rtutorial
-  - /r
-  - /rtutorials.html
-  - /rtutorials
+  - /rtutorial3
+  - /r3
+  - /rtutorials3.html
+  - /rtutorials3
 ---
+<br>
+## [Installation Page](/rtutorials/) > [Beginner R Tutorials](/rtutorials2/ > Zach's R Tutorials
 <br>
 <i class="fas fa-fw fa-list"></i> Quick Index
 - <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
