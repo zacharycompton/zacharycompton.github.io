@@ -28,11 +28,12 @@ redirect_from:
 	- Windows Users: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-windows-10" target="_blank">Install R</a>
 	- Mac OSX Users: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-mac-osx" target="_blank">Install R</a>
 	- Ubuntu Users: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-ubuntu-19.04/18.04/16.04" target="_blank">Install R</a>                                                             |
-	| Operating System  |		 |
+	
+	| Operating System  | Guide	 |
 	| --------          | ------ |
-	| Windows           | 2016   |
-	| Mac OSX           | 2019   |
-	| Ubuntu            | 2022   |
+	| Windows           | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-windows-10" target="_blank">Install R</a>   |
+	| Mac OSX           | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-mac-osx" target="_blank">Install R</a>   |
+	| Ubuntu            | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-ubuntu-19.04/18.04/16.04" target="_blank">Install R</a>   |
 	
 2. Installing Rstudio Software
 	- Windows Users: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio" target="_blank">Install Rstudio</a>
