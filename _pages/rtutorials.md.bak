@@ -32,18 +32,21 @@ redirect_from:
 	| Mac OSX           | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-mac-osx" target="_blank">Install R</a>   |
 	| Ubuntu            | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-ubuntu-19.04/18.04/16.04" target="_blank">Install R</a>   |
 	
-2. Installing Rstudio Software
-	- Windows Users: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio" target="_blank">Install Rstudio</a>
-	- Mac OSX Users: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio-and-r-packages" target="_blank">Install Rstudio</a>
-	- Ubuntu Users: <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio-and-r-packages" target="_blank">Install Rstudio</a>
+2. Installing Rstudio
+	
+	| Operating System  | Guide	 |
+	| --------          | ------ |
+	| Windows           | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio" target="_blank">Install Rstudio</a>   |
+	| Mac OSX           | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio-and-r-packages" target="_blank">Install Rstudio</a>   |
+	| Ubuntu            | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio-and-r-packages" target="_blank">Install Rstudio</a>   |
 		
-3. Installing GIT Software
+3. Installing GIT
 	- All Users: <a href="https://github.com/git-guides/install-git" target="_blank">Click Here</a>
 	
 4. Create Github Account
 	- All Users: <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">Click Here</a>
 		
-<a name="ROrientations"></a>
+<a name="ROrientation"></a>
 ### <i class="fas fa-fw fa-video"></i> Recommended Video Orientations
 
 **Notice!** Please keep in mind that a majority of your work will happen in RStudio, and that R and GIT installations are just codebases that support RStudio and Github
@@ -62,7 +65,7 @@ redirect_from:
 - <a href="https://www.codecademy.com/courses/learn-r/lessons/introduction-to-r/exercises/why-r" target="_blank">Codecademy: Free Introduction to R</a>
 	- An alternative to Datacamp that offers a similar integrated experience
 
-<a name="RIntro"></a>
+<a name="RResource"></a>
 ### <i class="fas fa-fw fa-code"></i><i class="fas fa-fw fa-code"></i> Intermediate R Code Resources
 
 - Swirl: <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
