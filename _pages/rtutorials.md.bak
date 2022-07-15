@@ -25,6 +25,7 @@ redirect_from:
 {: .notice}
 
 1. Installing R
+
 	| Operating System  | Guide	 |
 	| --------          | ------ |
 	| Windows           | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-windows-10" target="_blank">Install R</a>   |
