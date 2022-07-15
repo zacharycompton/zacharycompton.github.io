@@ -10,7 +10,7 @@ redirect_from:
   - /rtutorials3.html
   - /rtutorials3
 ---
-<center>Installation Page • <a href="https://zacharycompton.github.io/rtutorials2/">Beginner R Tutorials</a> • <a href="https://zacharycompton.github.io/rtutorials3/">Zach's R Tutorials</a></center>
+<center><a href="https://zacharycompton.github.io/rtutorials/">Installation Page</a> • <a href="https://zacharycompton.github.io/rtutorials2/">Beginner R Tutorials</a> • Zach's R Tutorials </center>
 <hr>
 <br>
 <i class="fas fa-fw fa-list"></i> Table of Contents
@@ -79,7 +79,7 @@ redirect_from:
 <br>
 <br>
 <hr>
-<center>Installation Page • <a href="https://zacharycompton.github.io/rtutorials2/">Beginner R Tutorials</a> • <a href="https://zacharycompton.github.io/rtutorials3/">Zach's R Tutorials</a></center>
+<center><a href="https://zacharycompton.github.io/rtutorials/">Installation Page</a> • <a href="https://zacharycompton.github.io/rtutorials2/">Beginner R Tutorials</a> • Zach's R Tutorials </center>
 
 **Notice!** Please let us know in discord if you find any broken links, outdated info, or errors, Thanks!
 {: .notice}
