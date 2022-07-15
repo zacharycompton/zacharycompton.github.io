@@ -20,7 +20,7 @@ redirect_from:
 {:toc}
 
 <a name="RTutorial1"><a/>
-## <i class="fas fa-fw fa-file-code-o"></i> Tutorial #1: Intro to dplyr
+## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #1: Intro to dplyr
 <p2>To learn R through ACE Scholar R Tutorials, follow these four key steps on your machine: install R, install R Studio, install GIT, and create a Github account.</p2>
 
 **Notice!** Please let us know in discord if you find any broken links, outdated info, or errors, Thanks!
@@ -43,7 +43,7 @@ redirect_from:
 	- All Users: <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">Click Here</a>
 		
 <a name="RTutorial2"></a>
-## <i class="fas fa-fw fa-file-code-o"></i> Tutorial #2: Intro to graphing with ggplot2
+## <i class="fas fa-fw fa-code-file-code-o"></i> Tutorial #2: Intro to graphing with ggplot2
 
 **Notice!** Please keep in mind that a majority of your work will happen in RStudio, and that R and GIT installations are just codebases that support RStudio and Github
 {: .notice}
@@ -53,7 +53,7 @@ redirect_from:
 - Quick Github Summary: <a href="https://www.youtube.com/watch?v=iv8rSLsi1xo&ab_channel=AnsonAlexander" target="_blank">Github Tutorial</a>
 
 <a name="RTutorial3"></a>
-## <i class="fas fa-fw fa-file-code-o"></i> Tutorial #3: Intro to linear regression
+## <i class="fas fa-fw fa-code-file-code-o"></i> Tutorial #3: Intro to linear regression
 
 - <a href="https://campus.datacamp.com/courses/free-introduction-to-r/chapter-1-intro-to-basics-1?ex=1" target="_blank">Datacamp: Free Intro to R Basics</a>
 	- A very quick course on arithmatic, variables, and data types in R
@@ -62,7 +62,7 @@ redirect_from:
 	- An alternative to Datacamp that offers a similar integrated experience
 
 <a name="RTutorial4"></a>
-## <i class="fas fa-fw fa-file-code-o"></i> Tutorial #4: Correlation testing
+## <i class="fas fa-fw fa-code-file-code-o"></i> Tutorial #4: Correlation testing
 
 - Swirl: <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
 
