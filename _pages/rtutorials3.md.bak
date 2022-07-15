@@ -20,7 +20,7 @@ redirect_from:
 {:toc}
 
 <a name="RTutorial1"><a/>
-## <i class="fas fa-fw fa-code-laptop-code"></i> Tutorial #1: Intro to dplyr
+## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #1: Intro to dplyr
 <p2>To learn R through ACE Scholar R Tutorials, follow these four key steps on your machine: install R, install R Studio, install GIT, and create a Github account.</p2>
 
 **Notice!** Please let us know in discord if you find any broken links, outdated info, or errors, Thanks!
