@@ -10,6 +10,8 @@ redirect_from:
   - /rtutorials.html
   - /rtutorials
 ---
+<br>
+<br>
 Installation Page • [Beginner R Tutorials](/rtutorials2/) • [Zach's R Tutorials](/rtutorials3/)
 <br>
 <br>
