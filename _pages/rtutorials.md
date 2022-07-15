@@ -1,6 +1,6 @@
 ---
 permalink: /rtutorials/
-title: '<i class="fas fa-fw fa-chart-area"></i> ACE Scholars R Tutorial Portal'
+title: '<center><i class="fas fa-fw fa-chart-area"></i> ACE Scholars R Tutorial Portal</center>'
 excerpt: "R Tutorials"
 toc: true
 author_profile: false
@@ -10,7 +10,7 @@ redirect_from:
   - /rtutorials.html
   - /rtutorials
 ---
-Installation Page • [Beginner R Tutorials](/rtutorials2/) • [Zach's R Tutorials](/rtutorials3/)
+<center>Installation Page • [Beginner R Tutorials](/rtutorials2/) • [Zach's R Tutorials](/rtutorials3/)</center>
 <hr>
 <br>
 <i class="fas fa-fw fa-list"></i> Table of Contents

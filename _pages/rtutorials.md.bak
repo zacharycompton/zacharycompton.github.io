@@ -69,10 +69,11 @@ Installation Page • [Beginner R Tutorials](/rtutorials2/) • [Zach's R Tutori
 ### <i class="fas fa-fw fa-code"></i><i class="fas fa-fw fa-code"></i> Intermediate R Code Resources
 
 - Swirl: <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
-
+	- <font size=3>Learn R from the command console in RStudio</font>
 - Big Book of R: <a href="https://www.bigbookofr.com/" target="_blank">An Index of R Books</a>
-
+	- <font size=3>A collection of all the R books you could read in a lifetime</font>
 - YaRrr: <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
+	- <font size=3>An index for details on various R subjects</font>
 <br>
 <br>
 <hr>
