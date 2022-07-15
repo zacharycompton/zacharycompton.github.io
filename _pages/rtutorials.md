@@ -10,7 +10,7 @@ redirect_from:
   - /rtutorials.html
   - /rtutorials
 ---
-<b><font size=4>Installation Page</font></b> > [Beginner R Tutorials](/rtutorials2/) > [Zach's R Tutorials](/rtutorials3/)
+Installation Page > [Beginner R Tutorials](/rtutorials2/) > [Zach's R Tutorials](/rtutorials3/)
 <br>
 <i class="fas fa-fw fa-list"></i> Table of Contents
 - <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
