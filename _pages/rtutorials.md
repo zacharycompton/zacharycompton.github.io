@@ -41,7 +41,6 @@ Installation Page • [Beginner R Tutorials](/rtutorials2/) • [Zach's R Tutori
 3. Installing GIT
 
 	|All Users			| <a href="https://github.com/git-guides/install-git" target="_blank">Click Here</a>	|
-	| --------          | ------ |
 	
 4. Create Github Account
 
