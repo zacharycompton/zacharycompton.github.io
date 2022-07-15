@@ -22,7 +22,7 @@ redirect_from:
 <a name="rtutorial1"><a/>
 ## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #1: Intro to Weighted PGLS
 
-Tutorial Links:
+###Tutorial Links:
 
 	| Tutorial Requirements  | Description	 |
 	| --------          		| ------ |
