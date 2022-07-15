@@ -62,7 +62,7 @@ redirect_from:
 	- An alternative to Datacamp that offers a similar integrated experience
 
 <a name="RTutorial4"></a>
-## <i class="fas fa-fw fa-file-code-o"></i> Tutorial #3: Correlation testing
+## <i class="fas fa-fw fa-file-code-o"></i> Tutorial #4: Correlation testing
 
 - Swirl: <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
 
