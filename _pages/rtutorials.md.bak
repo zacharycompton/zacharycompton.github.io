@@ -10,7 +10,7 @@ redirect_from:
   - /rtutorials.html
   - /rtutorials
 ---
-Installation Page > [Beginner R Tutorials](/rtutorials2/) > [Zach's R Tutorials](/rtutorials3/)
+Installation Page • [Beginner R Tutorials](/rtutorials2/) • [Zach's R Tutorials](/rtutorials3/)
 <br>
 <br>
 <i class="fas fa-fw fa-list"></i> Table of Contents
@@ -76,4 +76,4 @@ Installation Page > [Beginner R Tutorials](/rtutorials2/) > [Zach's R Tutorials]
 - YaRrr: <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
 <br>
 <br>
-Installation Page > [Beginner R Tutorials](/rtutorials2/) > [Zach's R Tutorials](/rtutorials3/)
+Installation Page • [Beginner R Tutorials](/rtutorials2/) • [Zach's R Tutorials](/rtutorials3/)
