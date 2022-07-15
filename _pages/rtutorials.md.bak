@@ -19,7 +19,7 @@ redirect_from:
 {:toc}
 
 ### <i class="fas fa-fw fa-box-open"></i> Installation of R, Rstudio, GIT, and Github
-<p2>To learn R through ACE Scholar R Tutorials, follow these four key steps on your machine: install R, install R Studio, install GIT, and create a Github account.</p2>
+<font size=2>To learn R through ACE Scholar R Tutorials, follow these four key steps on your machine: install R, install R Studio, install GIT, and create a Github account.</font>
 
 **Notice!** Please let us know in discord if you find any broken links, outdated info, or errors, Thanks!
 {: .notice}
