@@ -25,7 +25,6 @@ redirect_from:
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/E-YlcBZgJRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 #### Tutorial Links:
-
 	| Operating System  | Guide	 |
 	| --------          | ------ |
 	| Windows           | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-windows-10" target="_blank">Install R</a>   |
