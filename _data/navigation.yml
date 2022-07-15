@@ -1,17 +1,17 @@
 # main links links
 main:
-  - title: "About"
-    url: /
+  #- title: "About"
+   # url: /
     
   - title: "ACE Scholars"
-    url: https://cancer-insights.asu.edu/
+    url: https://www.acescholarsprogram.com/
     target: _blank
         
   - title: "R Tutorials"
     url: /rtutorials
     
-  - title: "CV"
-    url: /cv
+  #- title: "CV"
+    #url: /cv
     
   #- title: "Media"
     #url: #/media/

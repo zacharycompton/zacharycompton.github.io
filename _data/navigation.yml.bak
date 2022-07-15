@@ -4,7 +4,8 @@ main:
     url: /
     
   - title: "ACE Scholars"
-    url: https://cancer-insights.asu.edu/
+    url: https://www.acescholarsprogram.com/
+    target: _blank
         
   - title: "R Tutorials"
     url: /rtutorials
