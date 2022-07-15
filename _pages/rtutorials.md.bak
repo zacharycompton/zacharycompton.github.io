@@ -74,3 +74,6 @@ Installation Page > [Beginner R Tutorials](/rtutorials2/) > [Zach's R Tutorials]
 - Big Book of R: <a href="https://www.bigbookofr.com/" target="_blank">An Index of R Books</a>
 
 - YaRrr: <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
+<br>
+<br>
+Installation Page > [Beginner R Tutorials](/rtutorials2/) > [Zach's R Tutorials](/rtutorials3/)
