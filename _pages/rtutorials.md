@@ -77,7 +77,7 @@ redirect_from:
 <br>
 <br>
 <hr>
-Installation Page • [Beginner R Tutorials](/rtutorials2/) • [Zach's R Tutorials](/rtutorials3/)
+<center>Installation Page • <a href="https://zacharycompton.github.io/rtutorials2/">Beginner R Tutorials</a> • <a href="https://zacharycompton.github.io/rtutorials3/">Zach's R Tutorials</a></center>
 
 **Notice!** Please let us know in discord if you find any broken links, outdated info, or errors, Thanks!
 {: .notice}
