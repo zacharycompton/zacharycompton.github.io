@@ -22,14 +22,17 @@ redirect_from:
 <a name="rtutorial1"><a/>
 ## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #1: Intro to Weighted PGLS
 
-1. Installing R
+Tutorial Links:
 
-	| Operating System  | Guide	 |
-	| --------          | ------ |
-	| Windows           | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-windows-10" target="_blank">Install R</a>   |
-	| Mac OSX           | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-mac-osx" target="_blank">Install R</a>   |
-	| Ubuntu            | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-ubuntu-19.04/18.04/16.04" target="_blank">Install R</a>   |
-	
+<center>	| Tutorial Requirements  | Description	 |
+			| --------          | ------ |
+			| Packages          | <a href="https://cran.r-project.org/web/packages/nlme/index.html" target="_blank">nlme</a>   |
+			|					| <a href="https://cran.r-project.org/web/packages/phytools/index.html" target="_blank">phystools</a>	|
+			|					| <a href="https://cran.r-project.org/web/packages/tidyverse/index.html" target="_blank">tidyverse</a>
+			| Files          | <a href="https://github.com/zacharycompton/ACE-Tutorials/blob/421f4379dd0214fed72013800bce052a1cba270a/shuffledData.csv" target="_blank">shuffledData.csv</a>   |
+			| R Markdown           | <a href="https://zacharycompton.github.io/_files/WeightedPGLS.Rmd" target="_blank">WeightedPGLS.Rmd</a> 
+			| .rmd Submittion Folder          | <a href="https://drive.google.com/drive/folders/1tFrWxA_g0L98uM-RRpYevKEtHoed_vDe" target="_blank">RMD Submit Folder</a>			|</center>
+		
 	
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/E-YlcBZgJRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 

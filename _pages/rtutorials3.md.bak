@@ -20,7 +20,7 @@ redirect_from:
 {:toc}
 
 <a name="rtutorial1"><a/>
-## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #1: Intro to dplyr
+## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #1: Intro to Weighted PGLS
 
 1. Installing R
 

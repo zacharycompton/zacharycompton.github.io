@@ -1,0 +1,152 @@
+---
+title: "Weighted PGLS Walkthrough"
+output: html_notebook
+---
+
+### Weighted PGLS Full Walkthrough 
+Phylogenetic Generalized Least Squares (PGLS) regression analysis is a cornerstone of comparative phlogenetics and has been usued widely in our comparative oncology projects. One major assumption in regression analyses is that each of the data points is independent from one another. This assumption is invalidated with cross-species analysis because due to the shared ancestry of all living species, the data points cannot be truly independent. PGLS turns shared ancestry (i.e. phylogenetic distance between species) into a controlled varaible in the regression. The *pgls* function from the *phytools* function makes these analyses straightforward however the function lacks one crucial aspect which is the ability to weigh the regression by sample size (Total Individuals). There is good reason for the *pgls* function for not including a weight arguement, most of its uses have been to study correlation between life history traits. Weighing a regression by sample size isn't relevant when you are doing species-level analysis, since you expect there to be little uncertainity in these measurements. But since our Neoplasia Prevalence data is measured from a sample, there is good justification for using a weights arguement to address the uncertainty that comes with sample measurements. To address this, the ACE center has written its own function that allows for a PGLS regression with the ability to weigh the regression by sample size. This function takes a few extra steps to run than the original *pgls* function so I will walk through its application here as well as provide the code for the function itself. 
+#### Packages needed
+Remember, if you don't have any of these packages installed you will need to run install.packages("nameofpackage") before running your library lines
+
+```{r}
+library("nlme")
+library("phytools")
+library( "tidyverse")
+```
+
+
+
+#### What you will need
+Comparative oncology dataset including life history data. **Note** This dataset has been shuffled so that any cancer data is incorrect. This was done so this dataset could be distributed widely for tutorials. 
+
+```{r}
+Data <- read.csv("shuffledData.csv")
+head(Data)
+```
+
+A phylogeny that **at least** includes all of the species we have in our dataset. This tree was created on Timetree.org by uploading a text file of all the species names we needed.
+```{r}
+tree <- read.tree("min50species.nwk")
+plotTree(tree)
+```
+We can see that the names on the tree are impossible to read, we dont need to worry about that though.
+
+The next thing you will need to do is run all of the code that makes the function this lab created called pglsSEYPagel. This is the function that allows for the weighted PGLS regressions. Maybe one day we will create our own package so you don't need to do this but that day is not today. Once this function is properly ran you should see it pop up under the **functions** heading in your global environment tab.
+```{r}
+modPgls.SEy = function (model, data, corClass = corBrownian, tree, se = NULL, 
+                        method = c("REML", "ML"), interval = c(0, 1000), corClassValue=1, sig2e=NULL, ...) 
+{
+  Call <- match.call()
+  corfunc <- corClass
+  spp <- rownames(data)
+  data <- cbind(data, spp)
+  if (is.null(se)) 
+    se <- setNames(rep(0, Ntip(tree)), tree$tip.label)[spp]
+  else se <- se[spp]
+  
+  lk <- function(sig2e, data, tree, model, ve, corfunc, spp) {
+    tree$edge.length <- tree$edge.length * sig2e
+    ii <- sapply(1:Ntip(tree), function(x, e) which(e == 
+                                                      x), e = tree$edge[, 2])
+    tree$edge.length[ii] <- tree$edge.length[ii] + ve[tree$tip.label]
+    vf <- diag(vcv(tree))[spp]
+    w <- varFixed(~vf)
+    COR <- corfunc(corClassValue, tree, form = ~spp, ...)
+    fit <- gls(model, data = cbind(data, vf), correlation = COR, 
+               method = method, weights = w)
+    -logLik(fit)
+  }
+  
+  if (is.null(sig2e)) {
+    fit <- optimize(lk, interval = interval, data = data, tree = tree, 
+                    model = model, ve = se^2, corfunc = corfunc, spp = spp)
+    sig2e=fit$minimum
+  }
+  
+  tree$edge.length <- tree$edge.length * sig2e
+  ii <- sapply(1:Ntip(tree), function(x, e) which(e == x), 
+               e = tree$edge[, 2])
+  tree$edge.length[ii] <- tree$edge.length[ii] + se[tree$tip.label]^2
+  vf <- diag(vcv(tree))[spp]
+  w <- varFixed(~vf)
+  obj <- gls(model, data = cbind(data, vf), correlation = corfunc(corClassValue, 
+                                                                  tree, form = ~spp, ...), weights = w, method = method)
+  obj$call <- Call
+  obj$sig2e <- sig2e
+  obj
+}
+
+#Internal function
+pglsSEyPagelToOptimizeLambda=function(lambda,model,data,tree,...) {
+  -logLik(modPgls.SEy(model=model,data=data,tree=tree,corClassValue=lambda,corClass=corPagel,fixed=T,...)) #Returns -logLikelihood of the pgls.SEy model with lambda fixed to the value of the lambda argument. sig2e will be optimized within modPgls.SEy unless given as an argument here
+}
+
+#Function intended for users
+pglsSEyPagel=function(model, data, tree, lambdaInterval=c(0,1),...){
+  optimizedModel=optimize(pglsSEyPagelToOptimizeLambda,lambdaInterval,model=model,data=data,tree=tree,...) #Optimizes lambda in the lambdaInterval using the pglsSEyPagelToOptimizeLambda function
+  return(modPgls.SEy(model=model,data=data,tree=tree,corClass=corPagel,fixed=T,corClassValue=optimizedModel$minimum,...)) #Returns the final model fit
+}
+
+```
+
+For most people it is of little consequence if you understand what is going on in that chunk of code. When you install a package it is essentially downloading all of this code automatically and assigning it to a variable name. A bunch of code written to accomplish a certain task then assigned to a variable name is essential what a function is.
+
+#### Using the function
+
+The most difficult and annoying aspect of this function is its inability to ignore missing data. In the orginal *pgls* function if any of your species did not have data for the life history trait being used it would automatically filter those species out ONLY for that regression. Our homemade function is incapable of doing that so the data must be manually subset to exclude the missing values for the LH variable. Two very important things need to kept in mind here. 1) You need to keep an original dataset on hand that includes all your species and all your LH data, in this tutorial that is our 'Data' file. 2) Each time you perform a regression you will be making a subset datafile that removes all of the species that are missing the life history data for the trait you are using. There is a ton of variation in what species have data for a specific life history trait which is why we need to manually subset the data each time. If we removed all the species from our dataset that don't have body mass data, for example, we could be theoretically removing species that have life history data for another trait we want to use in the next regression, such as longevity. 
+
+#### Manual subset for body mass regression 
+We first need to see what the column numbers are for the data that we require for this regression 
+```{r}
+View(Data)
+```
+
+```{r}
+cutData <- Data[,c(2,3,5, 6),drop=FALSE] 
+
+cutData[cutData < 0] <-NA
+
+cutData <- na.omit(cutData)
+
+head(cutData)
+```
+
+Now we have only the data we need for our regression. Which is neoplasia prevalence, adult weight, species' names, and standard error.
+Now we should prune the tree to match the species we have in our cutData frame.
+```{r}
+cutData$Species <- gsub(" ", "_", cutData$Species)
+includedSpecies <- cutData$Species
+newtips<-str_remove_all(tree$tip.label,"_ott")
+tree$tip.label <- newtips
+pruned.tree<-drop.tip(
+  tree, setdiff(
+    tree$tip.label, includedSpecies))
+pruned.tree <- keep.tip(pruned.tree,pruned.tree$tip.label)
+##Remove any mismatches from your dataset that arent present in the tree
+cutData$Keep <- cutData$Species %in% pruned.tree$tip.label
+cutData <- cutData[!(cutData$Keep==FALSE),]
+
+```
+
+The above step should be familiar to anyone who has done the standard *pgls* function. During that step it is important to pay attention to your enviroment and the number of obs. and variables being removed from that step. 2-3 species being removed is expected due to the potential that we just couldnt find a phylogeny for those species. But if any more than 10 species are being removed you need to double check what is going on. Now this next step is unique to the pglsSEyPagel function we created.
+
+The pglsSEyPagel needs to have the Species' names set as the row names
+```{r}
+rownames(cutData)<-cutData$Species
+```
+
+It also needs the standard errors "SE" pulled out as its own named variable.
+```{r}
+SE<-setNames(cutData$SE,cutData$Species)[rownames(cutData)]
+```
+
+Now you should be able to run the regression model. Remember that we log10 transform most of our life history variables. 
+```{r}
+adult.weight.neoplasia<-pgls.SEy(NeoplasiaPrevalence~log10(adult_weight),data=cutData,tree=pruned.tree,method="ML",se=SE)
+```
+
+Finally we can run our summary function to view the relevant statistical values from our model. Which most for the most part will be the P-value, the R^2 value, and the lambda value. The lambda value is a measure of the proportion of the trait value that is constrained by phylogenetic distance. In other words, the lambda value shows how much control for species' relatedness the model had to employ.
+```{r}
+summary(adult.weight.neoplase)
+```
+
