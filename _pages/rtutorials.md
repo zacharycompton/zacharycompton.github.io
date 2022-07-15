@@ -11,6 +11,7 @@ redirect_from:
   - /rtutorials
 ---
 Installation Page • [Beginner R Tutorials](/rtutorials2/) • [Zach's R Tutorials](/rtutorials3/)
+<hr>
 <br>
 <br>
 <br>
@@ -75,6 +76,7 @@ Installation Page • [Beginner R Tutorials](/rtutorials2/) • [Zach's R Tutori
 - YaRrr: <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
 <br>
 <br>
+<hr>
 Installation Page • [Beginner R Tutorials](/rtutorials2/) • [Zach's R Tutorials](/rtutorials3/)
 
 **Notice!** Please let us know in discord if you find any broken links, outdated info, or errors, Thanks!
