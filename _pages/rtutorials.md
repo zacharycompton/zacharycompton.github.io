@@ -46,7 +46,7 @@ redirect_from:
 
 	|All Users			| <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">Click Here</a>	|
 		
-<a name="ROrientation"></a>
+<a name="rorientation"></a>
 ## <i class="fas fa-fw fa-video"></i> Recommended Video Orientations
 
 **Notice!** Please keep in mind that a majority of your work will happen in RStudio, and that R and GIT installations are just codebases that support RStudio and Github
@@ -56,10 +56,10 @@ redirect_from:
 - Quick RStudio Summary: <a href="https://www.youtube.com/watch?v=5YmcEYTSN7k&ab_channel=RTutorials" target="_blank">Introduction to RStudio</a>
 - Quick Github Summary: <a href="https://www.youtube.com/watch?v=iv8rSLsi1xo&ab_channel=AnsonAlexander" target="_blank">Github Tutorial</a>
 
-<a name="RIntro"></a>
+<a name="rintro"></a>
 ## <i class="fas fa-fw fa-code"></i> Beginner R Introductions
 
-**Notice!** These beginner introductions are optional for those that want to get a feel for R before beginning the ACE Tutorials.
+**Notice!** These beginner introductions are optional for those that want to get a feel for R before beginning the ACE Tutorials found here: <a href="https://zacharycompton.github.io/rtutorials2/">Beginner R Tutorials</a> • <a href="https://zacharycompton.github.io/rtutorials3/">Zach's R Tutorials</a>
 {: .notice}
 
 - <a href="https://campus.datacamp.com/courses/free-introduction-to-r/chapter-1-intro-to-basics-1?ex=1" target="_blank">Datacamp: Free Intro to R Basics</a>
@@ -68,7 +68,7 @@ redirect_from:
 - <a href="https://www.codecademy.com/courses/learn-r/lessons/introduction-to-r/exercises/why-r" target="_blank">Codecademy: Free Introduction to R</a>
 	- <font size=3>An alternative to Datacamp that offers a similar integrated experience</font>
 
-<a name="RResource"></a>
+<a name="rresource"></a>
 ## <i class="fas fa-fw fa-code"></i><i class="fas fa-fw fa-code"></i> Intermediate R Code Resources
 
 - Swirl: <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
