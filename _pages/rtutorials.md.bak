@@ -10,7 +10,7 @@ redirect_from:
   - /rtutorials.html
   - /rtutorials
 ---
-<center>Installation Page • [Beginner R Tutorials](/rtutorials2/) • [Zach's R Tutorials](/rtutorials3/)</center>
+<center>Installation Page • [Beginner R Tutorials](/rtutorials2/)<a href="//rtutorials2">Beginner R Tutorials</a> • [Zach's R Tutorials](/rtutorials3/)<a href="//rtutorials3">Zach's R Tutorials</a></center>
 <hr>
 <br>
 <i class="fas fa-fw fa-list"></i> Table of Contents
