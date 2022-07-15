@@ -60,10 +60,10 @@ redirect_from:
 ### <i class="fas fa-fw fa-code"></i> Beginner R Introductions
 
 - <a href="https://campus.datacamp.com/courses/free-introduction-to-r/chapter-1-intro-to-basics-1?ex=1" target="_blank">Datacamp: Free Intro to R Basics</a>
-	- A very quick course on arithmatic, variables, and data types in R
+	- <font size=3>A very quick course on arithmatic, variables, and data types in R</font>
 	
 - <a href="https://www.codecademy.com/courses/learn-r/lessons/introduction-to-r/exercises/why-r" target="_blank">Codecademy: Free Introduction to R</a>
-	- An alternative to Datacamp that offers a similar integrated experience
+	- <font size=3>An alternative to Datacamp that offers a similar integrated experience</font>
 
 <a name="RResource"></a>
 ### <i class="fas fa-fw fa-code"></i><i class="fas fa-fw fa-code"></i> Intermediate R Code Resources
