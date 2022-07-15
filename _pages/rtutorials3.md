@@ -1,6 +1,6 @@
 ---
 permalink: /rtutorials3/
-title: '<i class="fas fa-fw fa-chart-area"></i> ACE Scholars R Tutorial Portal'
+title: '<font size=6><center><i class="fas fa-fw fa-chart-area"></i> ACE Scholars R Tutorial Portal</center></font>'
 excerpt: "R Tutorials"
 toc: false
 author_profile: false
@@ -10,6 +10,15 @@ redirect_from:
   - /rtutorials3.html
   - /rtutorials3
 ---
+<center>Installation Page • <a href="https://zacharycompton.github.io/rtutorials2/">Beginner R Tutorials</a> • <a href="https://zacharycompton.github.io/rtutorials3/">Zach's R Tutorials</a></center>
+<hr>
+<br>
+<i class="fas fa-fw fa-list"></i> Table of Contents
+- <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
+- <a href="https://www.bigbookofr.com/" target="_blank">An Index of R Books</a>
+- <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
+{:toc}
+
 ### [Installation Page](/rtutorials/) > [Beginner R Tutorials](/rtutorials2/) > Zach's R Tutorials
 <br>
 <i class="fas fa-fw fa-list"></i> Table of Contents
@@ -67,3 +76,10 @@ redirect_from:
 - Big Book of R: <a href="https://www.bigbookofr.com/" target="_blank">An Index of R Books</a>
 
 - YaRrr: <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
+<br>
+<br>
+<hr>
+<center>Installation Page • <a href="https://zacharycompton.github.io/rtutorials2/">Beginner R Tutorials</a> • <a href="https://zacharycompton.github.io/rtutorials3/">Zach's R Tutorials</a></center>
+
+**Notice!** Please let us know in discord if you find any broken links, outdated info, or errors, Thanks!
+{: .notice}

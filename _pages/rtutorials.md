@@ -19,7 +19,7 @@ redirect_from:
 - <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
 {:toc}
 
-### <i class="fas fa-fw fa-box-open"></i> Installation of R, Rstudio, GIT, and Github
+## <i class="fas fa-fw fa-box-open"></i> Installation of R, Rstudio, GIT, and Github
 <font size=3>To learn R through ACE Scholar R Tutorials, follow these four key steps on your machine: install R, install R Studio, install GIT, and create a Github account.</font>
 
 1. Installing R
@@ -47,7 +47,7 @@ redirect_from:
 	|All Users			| <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">Click Here</a>	|
 		
 <a name="ROrientation"></a>
-### <i class="fas fa-fw fa-video"></i> Recommended Video Orientations
+## <i class="fas fa-fw fa-video"></i> Recommended Video Orientations
 
 **Notice!** Please keep in mind that a majority of your work will happen in RStudio, and that R and GIT installations are just codebases that support RStudio and Github
 {: .notice}
@@ -57,7 +57,7 @@ redirect_from:
 - Quick Github Summary: <a href="https://www.youtube.com/watch?v=iv8rSLsi1xo&ab_channel=AnsonAlexander" target="_blank">Github Tutorial</a>
 
 <a name="RIntro"></a>
-### <i class="fas fa-fw fa-code"></i> Beginner R Introductions
+## <i class="fas fa-fw fa-code"></i> Beginner R Introductions
 
 - <a href="https://campus.datacamp.com/courses/free-introduction-to-r/chapter-1-intro-to-basics-1?ex=1" target="_blank">Datacamp: Free Intro to R Basics</a>
 	- <font size=3>A very quick course on arithmatic, variables, and data types in R</font>
@@ -66,7 +66,7 @@ redirect_from:
 	- <font size=3>An alternative to Datacamp that offers a similar integrated experience</font>
 
 <a name="RResource"></a>
-### <i class="fas fa-fw fa-code"></i><i class="fas fa-fw fa-code"></i> Intermediate R Code Resources
+## <i class="fas fa-fw fa-code"></i><i class="fas fa-fw fa-code"></i> Intermediate R Code Resources
 
 - Swirl: <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
 	- <font size=3>Learn R from the command console in RStudio</font>

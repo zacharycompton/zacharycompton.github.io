@@ -1,6 +1,6 @@
 ---
 permalink: /rtutorials/
-title: '<center><i class="fas fa-fw fa-chart-area"></i> ACE Scholars R Tutorial Portal</center>'
+title: '<font size=6><center><i class="fas fa-fw fa-chart-area"></i> ACE Scholars R Tutorial Portal</center></font>'
 excerpt: "R Tutorials"
 toc: true
 author_profile: false
