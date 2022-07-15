@@ -39,10 +39,10 @@ Installation Page • [Beginner R Tutorials](/rtutorials2/) • [Zach's R Tutori
 	| Ubuntu            | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio-and-r-packages" target="_blank">Install Rstudio</a>   |
 		
 3. Installing GIT
-	- All Users: <a href="https://github.com/git-guides/install-git" target="_blank">Click Here</a>
+	|All Users			| <a href="https://github.com/git-guides/install-git" target="_blank">Click Here</a>	|
 	
 4. Create Github Account
-	- All Users: <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">Click Here</a>
+	|All Users			| <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">Click Here</a>	|
 		
 <a name="ROrientation"></a>
 ### <i class="fas fa-fw fa-video"></i> Recommended Video Orientations
