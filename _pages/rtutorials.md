@@ -10,7 +10,7 @@ redirect_from:
   - /rtutorials.html
   - /rtutorials
 ---
-<center><a href="https://zacharycompton.github.io/installation/">Installation Page</a> • R Tutorials Page </center>
+<center><a href="https://zacharycompton.github.io/installation/">Installation Guide</a> • R Tutorials </center>
 <hr>
 <br>
 <i class="fas fa-fw fa-list"></i> Table of Contents
@@ -54,7 +54,7 @@ redirect_from:
 <br>
 <br>
 <hr>
-<center><a href="https://zacharycompton.github.io/installation/">Installation Page</a> • R Tutorials Page </center>
+<center><a href="https://zacharycompton.github.io/installation/">Installation Guide</a> • R Tutorials </center>
 
 **Notice!** Please let us know in discord if you find any broken links, outdated info, or errors, Thanks!
 {: .notice}

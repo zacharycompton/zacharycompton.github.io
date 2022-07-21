@@ -2,7 +2,7 @@
 permalink: /rtutorials/
 title: '<font size=6><center><i class="fas fa-fw fa-chart-area"></i> ACE Scholars R Tutorial Portal</center></font>'
 excerpt: "R Tutorials"
-toc: true
+toc: false
 author_profile: false
 redirect_from: 
   - /rtutorial
@@ -10,7 +10,7 @@ redirect_from:
   - /rtutorials.html
   - /rtutorials
 ---
-<center>Installation Page • <a href="https://zacharycompton.github.io/rtutorials2/">Beginner R Tutorials</a> • <a href="https://zacharycompton.github.io/rtutorials3/">Zach's R Tutorials</a></center>
+<center><a href="https://zacharycompton.github.io/installation/">Installation Page</a> • R Tutorials Page </center>
 <hr>
 <br>
 <i class="fas fa-fw fa-list"></i> Table of Contents
@@ -19,68 +19,42 @@ redirect_from:
 - <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
 {:toc}
 
-## <i class="fas fa-fw fa-box-open"></i> Installation of R, Rstudio, GIT, and Github
-<font size=3>To learn R through ACE Scholar R Tutorials, follow these four key steps on your machine: install R, install R Studio, install GIT, and create a Github account.</font>
+<a name="rtutorial1"><a/>
+## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #1: Intro to Weighted PGLS
+			
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/E-YlcBZgJRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-1. Installing R
+### Tutorial Links
 
-	| Operating System  | Guide	 |
-	| --------          | ------ |
-	| Windows           | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-windows-10" target="_blank">Install R</a>   |
-	| Mac OSX           | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-mac-osx" target="_blank">Install R</a>   |
-	| Ubuntu            | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-r-on-ubuntu-19.04/18.04/16.04" target="_blank">Install R</a>   |
-	
-2. Installing Rstudio
-	
-	| Operating System  | Guide	 |
-	| --------          | ------ |
-	| Windows           | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio" target="_blank">Install Rstudio</a>   |
-	| Mac OSX           | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio-and-r-packages" target="_blank">Install Rstudio</a>   |
-	| Ubuntu            | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio-and-r-packages" target="_blank">Install Rstudio</a>   |
-		
-3. Installing GIT
+| Tutorial Requirements  | Description	 |
+| --------          		| ------ |
+| Packages          		| <a href="https://cran.r-project.org/web/packages/nlme/index.html" target="_blank">nlme</a>, <a href="https://cran.r-project.org/web/packages/phytools/index.html" target="_blank">phystools</a>, <a href="https://cran.r-project.org/web/packages/tidyverse/index.html" target="_blank">tidyverse</a>    |
+| Files         			| <a href="https://github.com/zacharycompton/ACE-Tutorials/blob/421f4379dd0214fed72013800bce052a1cba270a/shuffledData.csv" target="_blank">shuffledData.csv</a>   |
+| R Markdown           		| <a href="https://zacharycompton.github.io/_files/WeightedPGLS.Rmd" target="_blank">WeightedPGLS.Rmd</a>	|
+| .rmd Submittion Folder	| <a href="https://drive.google.com/drive/folders/1tFrWxA_g0L98uM-RRpYevKEtHoed_vDe" target="_blank">RMD Submit Folder</a>	|
 
-	|All Users			| <a href="https://github.com/git-guides/install-git" target="_blank">Click Here</a>	|
-	
-4. Create Github Account
-
-	|All Users			| <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">Click Here</a>	|
-		
-<a name="ROrientation"></a>
-## <i class="fas fa-fw fa-video"></i> Recommended Video Orientations
-
-**Notice!** Please keep in mind that a majority of your work will happen in RStudio, and that R and GIT installations are just codebases that support RStudio and Github
+**Notice!** Please let us know in discord if you find any broken links, outdated info, or errors, Thanks!
 {: .notice}
 
-- Quick R Summary: <a href="https://www.youtube.com/watch?v=9kYUGMg_14s&ab_channel=RProgramming101" target="_blank">Why you should use R</a>
-- Quick RStudio Summary: <a href="https://www.youtube.com/watch?v=5YmcEYTSN7k&ab_channel=RTutorials" target="_blank">Introduction to RStudio</a>
-- Quick Github Summary: <a href="https://www.youtube.com/watch?v=iv8rSLsi1xo&ab_channel=AnsonAlexander" target="_blank">Github Tutorial</a>
+<a name="rtutorial2"></a>
+## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #2: Downloading files from Github
 
-<a name="RIntro"></a>
-## <i class="fas fa-fw fa-code"></i> Beginner R Introductions
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ulv6-oTOaII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Notice!** These beginner introductions are optional for those that want to get a feel for R before beginning the ACE Tutorials found here: <a href="https://zacharycompton.github.io/rtutorials2/">Beginner R Tutorials</a> • <a href="https://zacharycompton.github.io/rtutorials3/">Zach's R Tutorials</a>
-{: .notice}
+<a name="rtutorial3"></a>
+## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #3: Brownian Motion Models - Part 2
 
-- <a href="https://campus.datacamp.com/courses/free-introduction-to-r/chapter-1-intro-to-basics-1?ex=1" target="_blank">Datacamp: Free Intro to R Basics</a>
-	- <font size=3>A very quick course on arithmatic, variables, and data types in R</font>
-	
-- <a href="https://www.codecademy.com/courses/learn-r/lessons/introduction-to-r/exercises/why-r" target="_blank">Codecademy: Free Introduction to R</a>
-	- <font size=3>An alternative to Datacamp that offers a similar integrated experience</font>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KGjIs4q9oio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<a name="RResource"></a>
-## <i class="fas fa-fw fa-code"></i><i class="fas fa-fw fa-code"></i> Intermediate R Code Resources
+<a name="rtutorial4"></a>
+## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #4: Brownian Motion Models - Part 3
 
-- Swirl: <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
-	- <font size=3>Learn R from the command console in RStudio</font>
-- Big Book of R: <a href="https://www.bigbookofr.com/" target="_blank">An Index of R Books</a>
-	- <font size=3>A collection of all the R books you could read in a lifetime</font>
-- YaRrr: <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
-	- <font size=3>An index for details on various R subjects</font>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sbCxFzJIsZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <br>
 <br>
 <hr>
-<center>Installation Page • <a href="https://zacharycompton.github.io/rtutorials2/">Beginner R Tutorials</a> • <a href="https://zacharycompton.github.io/rtutorials3/">Zach's R Tutorials</a></center>
+<center><a href="https://zacharycompton.github.io/installation/">Installation Page</a> • R Tutorials Page </center>
 
 **Notice!** Please let us know in discord if you find any broken links, outdated info, or errors, Thanks!
 {: .notice}
