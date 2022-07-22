@@ -81,8 +81,6 @@ redirect_from:
 | .RMD Submittion Folder	| <a href="" target="_blank">--</a>	|
 | Required Packages          		| <a href="" target="_blank">--</a>    |
 
-<hr>
-<br>
 <br>
 <hr>
 <center><a href="https://zacharycompton.github.io/installation/">Installation Guide</a> • R Tutorials </center>
