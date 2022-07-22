@@ -19,6 +19,8 @@ redirect_from:
 - <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
 {:toc}
 
+<hr>
+
 <a name="rtutorial1"><a/>
 ## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #1: Intro to Weighted PGLS
 			
@@ -32,9 +34,8 @@ redirect_from:
 | R Markdown Reference           		| <a href="https://zacharycompton.github.io/_files/WeightedPGLS.Rmd" target="_blank">WeightedPGLS.Rmd</a>	|
 | .RMD Submittion Folder	| <a href="https://drive.google.com/drive/folders/1tFrWxA_g0L98uM-RRpYevKEtHoed_vDe" target="_blank">RMD Submit Folder</a>	|
 | Required Packages          		| <a href="https://cran.r-project.org/web/packages/nlme/index.html" target="_blank">nlme</a>, <a href="https://cran.r-project.org/web/packages/phytools/index.html" target="_blank">phystools</a>, <a href="https://cran.r-project.org/web/packages/tidyverse/index.html" target="_blank">tidyverse</a>    |
+
 <hr>
-**Notice!** Please let us know in discord if you find any broken links, outdated info, or errors, Thanks!
-{: .notice}
 
 <a name="rtutorial2"></a>
 ## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #2: Downloading files from Github
@@ -49,6 +50,7 @@ redirect_from:
 | R Markdown Reference           		| <a href="" target="_blank">--</a>	|
 | .RMD Submittion Folder	| <a href="" target="_blank">--</a>	|
 | Required Packages          		| <a href="" target="_blank">--</a>    |
+
 <hr>
 
 <a name="rtutorial3"></a>
@@ -64,6 +66,7 @@ redirect_from:
 | R Markdown Reference           		| <a href="" target="_blank">--</a>	|
 | .RMD Submittion Folder	| <a href="" target="_blank">--</a>	|
 | Required Packages          		| <a href="" target="_blank">--</a>    |
+
 <hr>
 
 <a name="rtutorial4"></a>
@@ -79,8 +82,8 @@ redirect_from:
 | R Markdown Reference           		| <a href="" target="_blank">--</a>	|
 | .RMD Submittion Folder	| <a href="" target="_blank">--</a>	|
 | Required Packages          		| <a href="" target="_blank">--</a>    |
-<hr>
 
+<hr>
 <br>
 <br>
 <hr>
