@@ -58,7 +58,7 @@ redirect_from:
 <a name="rintro"></a>
 ## <i class="fas fa-fw fa-code"></i> Beginner R Introductions
 
-**Notice!** These beginner introductions are optional for those that want to get a feel for R before beginning the ACE Tutorials found here: <a href="https://zacharycompton.github.io/rtutorials2/">Beginner R Tutorials</a> • <a href="https://zacharycompton.github.io/rtutorials3/">Zach's R Tutorials</a>
+**Notice!** These beginner introductions are optional for those that want to get a feel for R before beginning the ACE Tutorials found here: <a href="https://zacharycompton.github.io/rtutorials/">R Tutorials</a>
 {: .notice}
 
 - <a href="https://campus.datacamp.com/courses/free-introduction-to-r/chapter-1-intro-to-basics-1?ex=1" target="_blank">Datacamp: Free Intro to R Basics</a>
