@@ -32,7 +32,7 @@ redirect_from:
 | R Markdown Reference           		| <a href="https://zacharycompton.github.io/_files/WeightedPGLS.Rmd" target="_blank">WeightedPGLS.Rmd</a>	|
 | .RMD Submittion Folder	| <a href="https://drive.google.com/drive/folders/1tFrWxA_g0L98uM-RRpYevKEtHoed_vDe" target="_blank">RMD Submit Folder</a>	|
 | Required Packages          		| <a href="https://cran.r-project.org/web/packages/nlme/index.html" target="_blank">nlme</a>, <a href="https://cran.r-project.org/web/packages/phytools/index.html" target="_blank">phystools</a>, <a href="https://cran.r-project.org/web/packages/tidyverse/index.html" target="_blank">tidyverse</a>    |
-
+<hr>
 **Notice!** Please let us know in discord if you find any broken links, outdated info, or errors, Thanks!
 {: .notice}
 
@@ -49,6 +49,7 @@ redirect_from:
 | R Markdown Reference           		| <a href="" target="_blank">--</a>	|
 | .RMD Submittion Folder	| <a href="" target="_blank">--</a>	|
 | Required Packages          		| <a href="" target="_blank">--</a>    |
+<hr>
 
 <a name="rtutorial3"></a>
 ## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #3: Brownian Motion Models - Part 2
@@ -63,6 +64,7 @@ redirect_from:
 | R Markdown Reference           		| <a href="" target="_blank">--</a>	|
 | .RMD Submittion Folder	| <a href="" target="_blank">--</a>	|
 | Required Packages          		| <a href="" target="_blank">--</a>    |
+<hr>
 
 <a name="rtutorial4"></a>
 ## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #4: Brownian Motion Models - Part 3
@@ -77,6 +79,7 @@ redirect_from:
 | R Markdown Reference           		| <a href="" target="_blank">--</a>	|
 | .RMD Submittion Folder	| <a href="" target="_blank">--</a>	|
 | Required Packages          		| <a href="" target="_blank">--</a>    |
+<hr>
 
 <br>
 <br>
