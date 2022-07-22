@@ -19,8 +19,6 @@ redirect_from:
 - <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
 {:toc}
 
-<hr>
-
 <a name="rtutorial1"><a/>
 ## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #1: Intro to Weighted PGLS
 			
@@ -74,7 +72,7 @@ redirect_from:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sbCxFzJIsZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<b>Tutorial #2 Links</b>
+<b>Tutorial #4 Links</b>
 
 | Tutorial Requirements  | Description	 |
 | --------          		| ------ |
