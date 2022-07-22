@@ -24,14 +24,14 @@ redirect_from:
 			
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/E-YlcBZgJRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-### Tutorial Links
+<b>Tutorial #1 Links</b>
 
 | Tutorial Requirements  | Description	 |
 | --------          		| ------ |
-| Packages          		| <a href="https://cran.r-project.org/web/packages/nlme/index.html" target="_blank">nlme</a>, <a href="https://cran.r-project.org/web/packages/phytools/index.html" target="_blank">phystools</a>, <a href="https://cran.r-project.org/web/packages/tidyverse/index.html" target="_blank">tidyverse</a>    |
-| Files         			| <a href="https://github.com/zacharycompton/ACE-Tutorials/blob/421f4379dd0214fed72013800bce052a1cba270a/shuffledData.csv" target="_blank">shuffledData.csv</a>   |
-| R Markdown           		| <a href="https://zacharycompton.github.io/_files/WeightedPGLS.Rmd" target="_blank">WeightedPGLS.Rmd</a>	|
-| .rmd Submittion Folder	| <a href="https://drive.google.com/drive/folders/1tFrWxA_g0L98uM-RRpYevKEtHoed_vDe" target="_blank">RMD Submit Folder</a>	|
+| Required Files         			| <a href="https://github.com/zacharycompton/ACE-Tutorials/blob/421f4379dd0214fed72013800bce052a1cba270a/shuffledData.csv" target="_blank">shuffledData.csv</a>   |
+| R Markdown Reference           		| <a href="https://zacharycompton.github.io/_files/WeightedPGLS.Rmd" target="_blank">WeightedPGLS.Rmd</a>	|
+| .RMD Submittion Folder	| <a href="https://drive.google.com/drive/folders/1tFrWxA_g0L98uM-RRpYevKEtHoed_vDe" target="_blank">RMD Submit Folder</a>	|
+| Required Packages          		| <a href="https://cran.r-project.org/web/packages/nlme/index.html" target="_blank">nlme</a>, <a href="https://cran.r-project.org/web/packages/phytools/index.html" target="_blank">phystools</a>, <a href="https://cran.r-project.org/web/packages/tidyverse/index.html" target="_blank">tidyverse</a>    |
 
 **Notice!** Please let us know in discord if you find any broken links, outdated info, or errors, Thanks!
 {: .notice}
@@ -41,15 +41,42 @@ redirect_from:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ulv6-oTOaII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<b>Tutorial #2 Links</b>
+
+| Tutorial Requirements  | Description	 |
+| --------          		| ------ |
+| Required Files         			| <a href="" target="_blank">--</a>   |
+| R Markdown Reference           		| <a href="" target="_blank">--</a>	|
+| .RMD Submittion Folder	| <a href="" target="_blank">--</a>	|
+| Required Packages          		| <a href="" target="_blank">--</a>    |
+
 <a name="rtutorial3"></a>
 ## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #3: Brownian Motion Models - Part 2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KGjIs4q9oio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<b>Tutorial #2 Links</b>
+
+| Tutorial Requirements  | Description	 |
+| --------          		| ------ |
+| Required Files         			| <a href="" target="_blank">--</a>   |
+| R Markdown Reference           		| <a href="" target="_blank">--</a>	|
+| .RMD Submittion Folder	| <a href="" target="_blank">--</a>	|
+| Required Packages          		| <a href="" target="_blank">--</a>    |
+
 <a name="rtutorial4"></a>
 ## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #4: Brownian Motion Models - Part 3
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sbCxFzJIsZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<b>Tutorial #2 Links</b>
+
+| Tutorial Requirements  | Description	 |
+| --------          		| ------ |
+| Required Files         			| <a href="" target="_blank">--</a>   |
+| R Markdown Reference           		| <a href="" target="_blank">--</a>	|
+| .RMD Submittion Folder	| <a href="" target="_blank">--</a>	|
+| Required Packages          		| <a href="" target="_blank">--</a>    |
 
 <br>
 <br>

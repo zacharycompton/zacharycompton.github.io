@@ -23,9 +23,8 @@ redirect_from:
 ## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #1: Intro to Weighted PGLS
 			
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/E-YlcBZgJRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
+<br>
 <b>Tutorial #1 Links</b>
-
 | Tutorial Requirements  | Description	 |
 | --------          		| ------ |
 | Required Files         			| <a href="https://github.com/zacharycompton/ACE-Tutorials/blob/421f4379dd0214fed72013800bce052a1cba270a/shuffledData.csv" target="_blank">shuffledData.csv</a>   |
@@ -40,9 +39,8 @@ redirect_from:
 ## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #2: Downloading files from Github
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ulv6-oTOaII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br>
 <b>Tutorial #2 Links</b>
-
 | Tutorial Requirements  | Description	 |
 | --------          		| ------ |
 | Required Files         			| <a href="" target="_blank">--</a>   |
@@ -54,9 +52,8 @@ redirect_from:
 ## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #3: Brownian Motion Models - Part 2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KGjIs4q9oio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<b>Tutorial #2 Links</b>
-
+<br>
+<b>Tutorial #3 Links</b>
 | Tutorial Requirements  | Description	 |
 | --------          		| ------ |
 | Required Files         			| <a href="" target="_blank">--</a>   |
@@ -68,9 +65,8 @@ redirect_from:
 ## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #4: Brownian Motion Models - Part 3
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sbCxFzJIsZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br>
 <b>Tutorial #2 Links</b>
-
 | Tutorial Requirements  | Description	 |
 | --------          		| ------ |
 | Required Files         			| <a href="" target="_blank">--</a>   |
