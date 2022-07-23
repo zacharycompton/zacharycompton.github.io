@@ -19,6 +19,7 @@ redirect_from:
 - <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
 {:toc}
 
+<br>
 <!-- COPY FROM HERE ########################################### -->
 <a name="rtutorial1"><a/>
 ## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #1: Intro to Weighted PGLS
@@ -37,6 +38,7 @@ redirect_from:
 
 <hr>
 <br>
+<br>
 <!-- ######################################################## TO HERE -->
 <a name="rtutorial2"></a>
 ## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #2: Downloading files from Github
@@ -54,6 +56,7 @@ redirect_from:
 
 <hr>
 <br>
+<br>
 
 <a name="rtutorial3"></a>
 ## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #3: Brownian Motion Models - Part 2
@@ -70,6 +73,7 @@ redirect_from:
 | Required Packages          		| <a href="" target="_blank">--</a>    |
 
 <hr>
+<br>
 <br>
 
 <a name="rtutorial4"></a>
