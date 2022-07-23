@@ -46,7 +46,7 @@ redirect_from:
 	|All Users			| <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">Click Here</a>	|
 	
 <a name="gitname"></a>
-## <i class="fa fa-terminal" aria-hidden="true"></i><i class="fas fa-fw fa-terminal></i> Introduce Yourself to GIT
+## <i class="fa fa-terminal" aria-hidden="true"> Introduce Yourself to GIT
 
 ![Git Command Line](/images/gitbashex.png)
 
@@ -60,14 +60,15 @@ git config --global --list
 
 
 <a name="hubconnect"></a>
-## <i class="fa fa-link" aria-hidden="true"></i><i class="fas fa-fw fa-link></i> Connect Your RStudio to ACE Tutorial Repository
+## <i class="fa fa-link" aria-hidden="true"> Connect Your RStudio to ACE Tutorial Repository
+
+<b>Cloning the ACE-Tutorials within RStudio:</b> <a href="https://happygitwithr.com/rstudio-git-github.html#clone-the-test-github-repository-to-your-computer-via-rstudio" target="_blank">Click Here</a>
 
 ```
 HTTPS Url (copy): https://github.com/zacharycompton/ACE-Tutorials.git
 ```
-Cloning the ACE-Tutorials within RStudio: <a href="https://happygitwithr.com/rstudio-git-github.html#clone-the-test-github-repository-to-your-computer-via-rstudio" target="_blank">Click Here</a>
 
-**Notice!** Linking your RStudio to the ACE-Tutorial repository on Github will ensure the required files (csv, trees, etc) will automatically download into your working directory so that your R code can reference them.  If you have issues with your auto connection, we will provide direct links to the files below the video tutorials.
+**Notice!** Linking your RStudio to the ACE-Tutorial repository on Github will ensure the required files (csv, trees, etc) will automatically download into your working directory so that your R code can reference them.  However, if you have issues with your auto connection, we will provide direct links to the files below the video tutorials for manual placement.
 {: .notice}
 		
 <a name="rorientation"></a>

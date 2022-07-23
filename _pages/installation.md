@@ -46,7 +46,7 @@ redirect_from:
 	|All Users			| <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">Click Here</a>	|
 	
 <a name="gitname"></a>
-## <i class="fa fa-terminal" aria-hidden="true"> Introduce Yourself to GIT
+## <i class="fa fa-terminal" aria-hidden="true"></i> Introduce Yourself to GIT
 
 ![Git Command Line](/images/gitbashex.png)
 
@@ -57,19 +57,21 @@ git config --global user.name 'Jane Doe'
 git config --global user.email 'jane@example.com'
 git config --global --list
 ```
+<hr>
 
 
 <a name="hubconnect"></a>
-## <i class="fa fa-link" aria-hidden="true"> Connect Your RStudio to ACE Tutorial Repository
+## <i class="fa fa-link" aria-hidden="true"></i> Connect Your RStudio to ACE Tutorial Repository
 
-<b>Cloning the ACE-Tutorials within RStudio:</b> <a href="https://happygitwithr.com/rstudio-git-github.html#clone-the-test-github-repository-to-your-computer-via-rstudio" target="_blank">Click Here</a>
+**Notice!** Linking your RStudio to the ACE-Tutorial repository on Github will ensure the required files (csv, trees, etc) will automatically download into your working directory so that your R code can reference them.  However, if you have issues with your auto connection, we will provide direct links to the files below the video tutorials for manual placement.
+{: .notice}
+
+Cloning the ACE-Tutorials within RStudio: <a href="https://happygitwithr.com/rstudio-git-github.html#clone-the-test-github-repository-to-your-computer-via-rstudio" target="_blank">Click Here</a>
 
 ```
 HTTPS Url (copy): https://github.com/zacharycompton/ACE-Tutorials.git
 ```
-
-**Notice!** Linking your RStudio to the ACE-Tutorial repository on Github will ensure the required files (csv, trees, etc) will automatically download into your working directory so that your R code can reference them.  However, if you have issues with your auto connection, we will provide direct links to the files below the video tutorials for manual placement.
-{: .notice}
+<hr>
 		
 <a name="rorientation"></a>
 ## <i class="fas fa-fw fa-video"></i> Recommended Video Orientations
@@ -80,6 +82,7 @@ HTTPS Url (copy): https://github.com/zacharycompton/ACE-Tutorials.git
 - Quick R Summary: <a href="https://www.youtube.com/watch?v=9kYUGMg_14s&ab_channel=RProgramming101" target="_blank">Why you should use R</a>
 - Quick RStudio Summary: <a href="https://www.youtube.com/watch?v=5YmcEYTSN7k&ab_channel=RTutorials" target="_blank">Introduction to RStudio</a>
 - Quick Github Summary: <a href="https://www.youtube.com/watch?v=iv8rSLsi1xo&ab_channel=AnsonAlexander" target="_blank">Github Tutorial</a>
+<hr>
 
 <a name="rintro"></a>
 ## <i class="fas fa-fw fa-code"></i> Beginner R Introductions
@@ -92,6 +95,7 @@ HTTPS Url (copy): https://github.com/zacharycompton/ACE-Tutorials.git
 	
 - <a href="https://www.codecademy.com/courses/learn-r/lessons/introduction-to-r/exercises/why-r" target="_blank">Codecademy: Free Introduction to R</a>
 	- <font size=3>An alternative to Datacamp that offers a similar integrated experience</font>
+<hr>
 
 <a name="rresource"></a>
 ## <i class="fas fa-fw fa-book"></i> Intermediate R Code Resources
@@ -102,8 +106,6 @@ HTTPS Url (copy): https://github.com/zacharycompton/ACE-Tutorials.git
 	- <font size=3>A collection of all the R books you could read in a lifetime</font>
 - YaRrr: <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
 	- <font size=3>An index for details on various R subjects</font>
-<br>
-<br>
 <hr>
 <center>Installation Guide • <a href="https://zacharycompton.github.io/rtutorials/">R Tutorials</a></center>
 
