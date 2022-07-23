@@ -19,6 +19,7 @@ redirect_from:
 - <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
 {:toc}
 
+<!-- COPY FROM HERE ########################################### -->
 <a name="rtutorial1"><a/>
 ## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #1: Intro to Weighted PGLS
 			
@@ -26,17 +27,17 @@ redirect_from:
 <br>
 <b>Tutorial #1 Links</b>
 
-| Tutorial Requirements  | Description	 |
-| --------          		| ------ |
-| Required Packages          		| nlme, phystools, tidyverse    |
-| Required Files         			| <a href="https://github.com/zacharycompton/ACE-Tutorials/blob/421f4379dd0214fed72013800bce052a1cba270a/shuffledData.csv" target="_blank">shuffledData.csv</a>   |
-| R Markdown           		| <a href="https://zacharycompton.github.io/files/WeightedPGLS.Rmd" target="_blank">WeightedPGLS.Rmd</a>	|
-| Knited HTML							|	<a href="https://zacharycompton.github.io/posts/tutorial1knit/" target="_blank">WeightedPGLS Knited HTML</a>			|
-| .RMD Submittion Folder	| <a href="https://drive.google.com/drive/folders/1tFrWxA_g0L98uM-RRpYevKEtHoed_vDe" target="_blank">RMD Submit Folder</a>	|
+| Tutorial Requirements  | Label/Link	 | Description |
+| -------- | ------ | ------ |
+| Required Packages | nlme, phystools, tidyverse | Ensure these packages are installed and initialized using install.packages() and library() |
+| Required Files | <a href="https://github.com/zacharycompton/ACE-Tutorials/blob/421f4379dd0214fed72013800bce052a1cba270a/shuffledData.csv" target="_blank">shuffledData.csv</a> | Ensure this file is in the same folder as your .RMD |
+| R Markdown | <a href="https://zacharycompton.github.io/files/WeightedPGLS.Rmd" target="_blank">WeightedPGLS.Rmd</a>	| This file can be opened in RStudio for reference |
+| Knited HTML |	<a href="https://zacharycompton.github.io/posts/tutorial1knit/" target="_blank">WeightedPGLS Knited HTML</a> | This file will be opened in a new tab to show what the final knited document will look like |
+| .RMD Submittion Folder | <a href="https://drive.google.com/drive/folders/1tFrWxA_g0L98uM-RRpYevKEtHoed_vDe" target="_blank">RMD Submit Folder</a>	| Submit your final knited .HTML document here |
 
 
 <hr>
-
+<!-- ######################################################## TO HERE -->
 <a name="rtutorial2"></a>
 ## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #2: Downloading files from Github
 
