@@ -45,6 +45,7 @@ redirect_from:
 
 	|All Users			| <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">Click Here</a>	|
 <hr>
+<br>
 	
 <a name="gitname"></a>
 ## <i class="fa fa-terminal" aria-hidden="true"></i> Introduce Yourself to GIT
@@ -59,6 +60,7 @@ git config --global user.email 'jane@example.com'
 git config --global --list
 ```
 <hr>
+<br>
 
 
 <a name="hubconnect"></a>
@@ -73,6 +75,7 @@ git config --global --list
 https://github.com/zacharycompton/ACE-Tutorials.git
 ```
 <hr>
+<br>
 		
 <a name="rorientation"></a>
 ## <i class="fas fa-fw fa-video"></i> Recommended Video Orientations
@@ -84,6 +87,7 @@ https://github.com/zacharycompton/ACE-Tutorials.git
 - Quick RStudio Summary: <a href="https://www.youtube.com/watch?v=5YmcEYTSN7k&ab_channel=RTutorials" target="_blank">Introduction to RStudio</a>
 - Quick Github Summary: <a href="https://www.youtube.com/watch?v=iv8rSLsi1xo&ab_channel=AnsonAlexander" target="_blank">Github Tutorial</a>
 <hr>
+<br>
 
 <a name="rintro"></a>
 ## <i class="fas fa-fw fa-code"></i> Beginner R Introductions
@@ -97,6 +101,7 @@ https://github.com/zacharycompton/ACE-Tutorials.git
 - <a href="https://www.codecademy.com/courses/learn-r/lessons/introduction-to-r/exercises/why-r" target="_blank">Codecademy: Free Introduction to R</a>
 	- <font size=3>An alternative to Datacamp that offers a similar integrated experience</font>
 <hr>
+<br>
 
 <a name="rresource"></a>
 ## <i class="fas fa-fw fa-book"></i> Intermediate R Code Resources
@@ -108,6 +113,7 @@ https://github.com/zacharycompton/ACE-Tutorials.git
 - YaRrr: <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
 	- <font size=3>An index for details on various R subjects</font>
 <hr>
+<br>
 <center>Installation Guide • <a href="https://zacharycompton.github.io/rtutorials/">R Tutorials</a></center>
 
 **Notice!** Please let us know in discord if you find any broken links, outdated info, or errors, Thanks!
