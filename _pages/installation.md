@@ -46,20 +46,21 @@ redirect_from:
 	|All Users			| <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">Click Here</a>	|
 	
 <a name="gitname"></a>
-## <i class="fas fa-fw fa-terminal></i> Introduce Yourself to GIT
+## <i class="fa fa-terminal" aria-hidden="true"></i><i class="fas fa-fw fa-terminal></i> Introduce Yourself to GIT
 
 ![Git Command Line](/images/gitbashex.png)
 
-In the GIT Shell
+In the GIT Shell, enter these three commands using your information,
+substituting your name and <b>the email associated with your GitHub account.</b>
 ```
 git config --global user.name 'Jane Doe'
 git config --global user.email 'jane@example.com'
 git config --global --list
 ```
-substituting your name and <b>the email associated with your GitHub account.</b>
+
 
 <a name="hubconnect"></a>
-## <i class="fas fa-fw fa-link></i> Connect Your RStudio to ACE Tutorial Repository
+## <i class="fa fa-link" aria-hidden="true"></i><i class="fas fa-fw fa-link></i> Connect Your RStudio to ACE Tutorial Repository
 
 ```
 HTTPS Url (copy): https://github.com/zacharycompton/ACE-Tutorials.git
