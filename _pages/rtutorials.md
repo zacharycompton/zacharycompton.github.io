@@ -29,10 +29,10 @@ redirect_from:
 
 | Tutorial Requirements  | Label/Link	 | Description |
 | -------- | ------ | ------ |
-| Required Packages | nlme, phystools, tidyverse | Ensure these packages are installed and initialized using install.packages() and library() |
+| Required Packages | nlme, phystools, tidyverse | Ensure these packages are installed and initialized using install.packages() and library() functions |
 | Required Files | <a href="https://github.com/zacharycompton/ACE-Tutorials/blob/421f4379dd0214fed72013800bce052a1cba270a/shuffledData.csv" target="_blank">shuffledData.csv</a> | Ensure this file is in the same folder as your .RMD |
 | R Markdown | <a href="https://zacharycompton.github.io/files/WeightedPGLS.Rmd" target="_blank">WeightedPGLS.Rmd</a>	| This file can be opened in RStudio for reference |
-| Knited HTML |	<a href="https://zacharycompton.github.io/posts/tutorial1knit/" target="_blank">WeightedPGLS Knited HTML</a> | This file will be opened in a new tab to show what the final knited document will look like |
+| Knited HTML |	<a href="https://zacharycompton.github.io/posts/tutorial1knit/" target="_blank">WeightedPGLS Knitted HTML</a> | This file will be opened in a new browser tab to show what the final knited document will look like |
 | .RMD Submittion Folder | <a href="https://drive.google.com/drive/folders/1tFrWxA_g0L98uM-RRpYevKEtHoed_vDe" target="_blank">RMD Submit Folder</a>	| Submit your final knited .HTML document here |
 
 
