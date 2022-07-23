@@ -12,7 +12,7 @@ redirect_from:
 <center>Installation Guide • <a href="https://zacharycompton.github.io/rtutorials/">R Tutorials</a></center>
 <hr>
 <br>
-<i class="fas fa-fw fa-list"></i> Table of Contents
+<i class="fas fa-fw fa-list"></i> Table of Contents <!--This Table of Contents is Hacked to work, disregard the physical links, it will update off the headers automatically-->
 - <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
 - <a href="https://www.bigbookofr.com/" target="_blank">An Index of R Books</a>
 - <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
@@ -44,6 +44,7 @@ redirect_from:
 4. Create Github Account
 
 	|All Users			| <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">Click Here</a>	|
+<hr>
 	
 <a name="gitname"></a>
 ## <i class="fa fa-terminal" aria-hidden="true"></i> Introduce Yourself to GIT
