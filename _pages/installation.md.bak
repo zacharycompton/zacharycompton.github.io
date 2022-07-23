@@ -44,6 +44,27 @@ redirect_from:
 4. Create Github Account
 
 	|All Users			| <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">Click Here</a>	|
+	
+<a name="gitname"></a>
+## <i class="fas fa-fw fa-terminal></i> Introduce Yourself to GIT
+
+![Git Command Line](/assets/gitbashex.png)
+
+In the GIT Shell
+```
+git config --global user.name 'Jane Doe'
+git config --global user.email 'jane@example.com'
+git config --global --list
+```
+substituting your name and <b>the email associated with your GitHub account.</b>
+
+<a name="hubconnect"></a>
+## <i class="fas fa-fw fa-link></i> Connect Your RStudio to ACE Tutorial Repository
+
+```
+HTTPS Url (copy): https://github.com/zacharycompton/ACE-Tutorials.git
+```
+Using Github within RStudio: <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">Click Here</a>
 		
 <a name="rorientation"></a>
 ## <i class="fas fa-fw fa-video"></i> Recommended Video Orientations

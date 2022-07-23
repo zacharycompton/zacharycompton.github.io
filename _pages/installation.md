@@ -48,7 +48,7 @@ redirect_from:
 <a name="gitname"></a>
 ## <i class="fas fa-fw fa-terminal></i> Introduce Yourself to GIT
 
-![Git Command Line](/assets/gitbashex.png)
+![Git Command Line](/images/gitbashex.png)
 
 In the GIT Shell
 ```
@@ -64,7 +64,10 @@ substituting your name and <b>the email associated with your GitHub account.</b>
 ```
 HTTPS Url (copy): https://github.com/zacharycompton/ACE-Tutorials.git
 ```
-Using Github within RStudio: <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home" target="_blank">Click Here</a>
+Cloning the ACE-Tutorials within RStudio: <a href="https://happygitwithr.com/rstudio-git-github.html#clone-the-test-github-repository-to-your-computer-via-rstudio" target="_blank">Click Here</a>
+
+**Notice!** Linking your RStudio to the ACE-Tutorial repository on Github will ensure the required files (csv, trees, etc) will automatically download into your working directory so that your R code can reference them.  If you have issues with your auto connection, we will provide direct links to the files below the video tutorials.
+{: .notice}
 		
 <a name="rorientation"></a>
 ## <i class="fas fa-fw fa-video"></i> Recommended Video Orientations
