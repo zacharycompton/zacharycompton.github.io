@@ -68,7 +68,7 @@ redirect_from:
 	- <font size=3>An alternative to Datacamp that offers a similar integrated experience</font>
 
 <a name="rresource"></a>
-## <i class="fas fa-fw fa-code"></i><i class="fas fa-fw fa-code"></i> Intermediate R Code Resources
+## <i class="fas fa-fw fa-book"></i> Intermediate R Code Resources
 
 - Swirl: <a href="https://swirlstats.com/students.html" target="_blank">Learn R, in R</a>
 	- <font size=3>Learn R from the command console in RStudio</font>
