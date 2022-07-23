@@ -28,10 +28,12 @@ redirect_from:
 
 | Tutorial Requirements  | Description	 |
 | --------          		| ------ |
+| Required Packages          		| nlme, phystools, tidyverse    |
 | Required Files         			| <a href="https://github.com/zacharycompton/ACE-Tutorials/blob/421f4379dd0214fed72013800bce052a1cba270a/shuffledData.csv" target="_blank">shuffledData.csv</a>   |
-| R Markdown Reference           		| <a href="https://zacharycompton.github.io/_files/WeightedPGLS.Rmd" target="_blank">WeightedPGLS.Rmd</a>	|
+| R Markdown           		| <a href="https://zacharycompton.github.io/_files/WeightedPGLS.Rmd" target="_blank">WeightedPGLS.Rmd</a>	|
+| Knited HTML							|	<a href="https://zacharycompton.github.io/posts/tutorial1knit/" target="_blank">WeightedPGLS Knited HTML</a>			|
 | .RMD Submittion Folder	| <a href="https://drive.google.com/drive/folders/1tFrWxA_g0L98uM-RRpYevKEtHoed_vDe" target="_blank">RMD Submit Folder</a>	|
-| Required Packages          		| <a href="https://cran.r-project.org/web/packages/nlme/index.html" target="_blank">nlme</a>, <a href="https://cran.r-project.org/web/packages/phytools/index.html" target="_blank">phystools</a>, <a href="https://cran.r-project.org/web/packages/tidyverse/index.html" target="_blank">tidyverse</a>    |
+
 
 <hr>
 
