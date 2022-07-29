@@ -14,12 +14,44 @@ I suggest cloning the site into a dropbox folder and editing the site with notep
 Establish your current directory of the clone first
 
 ```
+git status
+```
+
+```
 git add -A
 git commit -m "Casual Update"
 git push
 
 ```
 Include the extra blank line at the bottom to have it run fully without hitting enter at the end
+
+## Using inline HTML will help give you added formating and functionality in the .md files
+To comment in your markdown use:
+```
+<!-- Comment -->
+```
+To be able to better control padding and spaces between text and objects use:
+```
+<br>
+```
+To add a light grey horizonal line to the page use:
+```
+<hr>
+```
+To add a hyperlink that will open in a new tab use:
+```
+<a href="https://notepad-plus-plus.org/downloads/" target="_blank">Notepad++ Version Page</a>
+```
+<sub>Helpful if you are visiting an external site</sub>
+To make an anchor on your pages content use:
+```
+<a name="anchor1"></a>
+```
+Reference that anchor with a pound sign:
+```
+http://www.site.com/page#anchor1
+```
+
 
 ## Locations of key files/directories
 
