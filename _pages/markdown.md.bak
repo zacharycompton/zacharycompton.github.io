@@ -43,6 +43,7 @@ To add a hyperlink that will open in a new tab use:
 <a href="url" target="_blank">link text</a>
 ```
 <sub>Helpful if you are visiting an external site</sub>
+
 To make an anchor on your pages content use:
 ```
 <a name="anchor1"></a>
