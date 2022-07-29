@@ -14,6 +14,6 @@ redirect_from:
 <iframe 
   width="100%"
   height="100%"
-  src="/_posts/2022-01-01-tutorial1knit.html"
+  src="https://zacharycompton.github.io/2022-01-01-tutorial1knit.html"
   frameborder="0">
 </iframe>
