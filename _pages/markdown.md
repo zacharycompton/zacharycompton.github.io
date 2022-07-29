@@ -55,6 +55,26 @@ HTML to embed a youtube video (just change the url):
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/E-YlcBZgJRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 ```
 
+## Steps to add a knited html, from RStudio
+1. Open the knitted html document in notepad++
+2. Add the following front matter to the beginning of the document:
+	- ```
+		---
+		layout: post
+		title: Tutorial 1 Knit
+		permalink: /tutorial1knit/
+		redirect_from:
+			- /tutorial1knit.html
+		---
+	```
+3. Change the title, permalink, and redirect to reflect the new document
+4. Rename the file with the following naming format:
+	-```
+	YYYY-MM-DD-TITLE.html
+	```
+5. Save the file to the _posts/ folder
+6. GIT push the changes to github
+
 
 ## Locations of key files/directories
 

@@ -38,12 +38,10 @@ To add a light grey horizonal line to the page use:
 ```
 <hr>
 ```
-To add a hyperlink that will open in a new tab use:
+To add a hyperlink that will open in a new tab use(<sub>Helpful if you are visiting an external site</sub>):
 ```
 <a href="url" target="_blank">link text</a>
 ```
-<sub>Helpful if you are visiting an external site</sub>
-
 To make an anchor on your pages content use:
 ```
 <a name="anchor1"></a>
@@ -51,6 +49,10 @@ To make an anchor on your pages content use:
 Reference that anchor with a pound sign:
 ```
 http://www.site.com/page#anchor1
+```
+HTML to embed a youtube video (just change the url):
+```
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/E-YlcBZgJRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 ```
 
 
