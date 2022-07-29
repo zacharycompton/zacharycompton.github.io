@@ -7,20 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-## Editing the Site
-I suggest cloning the site into a dropbox folder and editing the site with notepad++ <a href="https://notepad-plus-plus.org/downloads/" target="_blank">Notepad++ Version Page</a>
-
-## Use GIT Shell for pushing
-Establish your current directory of the clone first
-
-```
-git add -A
-git commit -m "Casual Update"
-git push
-
-```
-Include the extra blank line at the bottom to have it run fully without hitting enter at the end
-
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
