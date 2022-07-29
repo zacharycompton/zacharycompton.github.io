@@ -7,6 +7,13 @@ redirect_from:
   - /markdown.html
 ---
 
+## Tips
+-If you're copying pages, creating new pages, ensure that your front matter code doesn't have overlaping permalinks, otherwise the page that gets batched last (alphabetically) will take the permalink.
+-Markdown tables can be very touchy.  Make sure you have space between them and other content, and you don't have odd symbols like colons preceding them, or they might not build properly.
+-Don't forget to put a space in your headers # Title, not #Title.
+-Visit the 'actions' tab of the repository on github to watch the gitpages batching process.  If you send two quick pushes before the first can batch, it will cancel the first batch, and restart it as one big update.
+
+
 ## Editing the Site
 I suggest cloning the site into a dropbox folder and editing the site with notepad++ <a href="https://notepad-plus-plus.org/downloads/" target="_blank">Notepad++ Version Page</a>
 
@@ -72,8 +79,9 @@ HTML to embed a youtube video (just change the url):
 	-```
 	YYYY-MM-DD-TITLE.html
 	```
-5. Save the file to the _posts/ folder
+5. Save the file to the _posts folder
 6. GIT push the changes to github
+7. This url would be https://zacharycompton.github.io/tutorial1knit
 
 
 ## Locations of key files/directories
