@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Posting Rmarkdowns to your Jekyll website
-permalink: /posts/tutorial1knit/
+title: Tutorial 1 Knit
+permalink: /tutorial1knit2/
+redirect_from:
+  - /tutorial1knit2.html
 ---
 
 <!DOCTYPE html>
