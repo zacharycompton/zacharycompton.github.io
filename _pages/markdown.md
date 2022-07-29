@@ -40,9 +40,10 @@ To add a light grey horizonal line to the page use:
 ```
 To add a hyperlink that will open in a new tab use:
 ```
-<a href="https://notepad-plus-plus.org/downloads/" target="_blank">Notepad++ Version Page</a>
+<a href="url" target="_blank">link text</a>
 ```
 <sub>Helpful if you are visiting an external site</sub>
+
 To make an anchor on your pages content use:
 ```
 <a name="anchor1"></a>
