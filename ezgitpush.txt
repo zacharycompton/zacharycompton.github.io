@@ -1,0 +1,5 @@
+cd /c/users/yaya/dropbox/githubsite/zacharycompton.github.io
+
+git add -A
+git commit -m "Casual Update"
+git push
