@@ -83,6 +83,16 @@ HTML to embed a youtube video (just change the url):
 6. GIT push the changes to github
 7. This url would be https://zacharycompton.github.io/tutorial1knit
 
+## Using Font-Awesome specialized fonts
+<a ref="https://fontawesome.com/v5/cheatsheet" target="_blank">Font-Awesome V5 Cheatsheet</a>
+```
+<i class="fas fa-fw fa-chart-area">
+```
+Or
+```
+<i class="fa fa-terminal" aria-hidden="true"></i>
+```
+
 
 ## Locations of key files/directories
 

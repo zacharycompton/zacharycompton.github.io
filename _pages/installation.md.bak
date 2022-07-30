@@ -71,9 +71,9 @@ git config --global --list
 
 - Cloning the ACE-Tutorials within RStudio: <a href="https://happygitwithr.com/rstudio-git-github.html#clone-the-test-github-repository-to-your-computer-via-rstudio" target="_blank">Click Here</a>
 
-```
-https://github.com/zacharycompton/ACE-Tutorials.git
-```
+	- ```
+	  https://github.com/zacharycompton/ACE-Tutorials.git
+	  ```
 <hr>
 <br>
 		

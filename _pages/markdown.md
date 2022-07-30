@@ -9,8 +9,11 @@ redirect_from:
 
 ## Tips
 -If you're copying pages, creating new pages, ensure that your front matter code doesn't have overlaping permalinks, otherwise the page that gets batched last (alphabetically) will take the permalink.
+	
 -Markdown tables can be very touchy.  Make sure you have space between them and other content, and you don't have odd symbols like colons preceding them, or they might not build properly.
+
 -Don't forget to put a space in your headers # Title, not #Title.
+
 -Visit the 'actions' tab of the repository on github to watch the gitpages batching process.  If you send two quick pushes before the first can batch, it will cancel the first batch, and restart it as one big update.
 
 
@@ -84,7 +87,7 @@ HTML to embed a youtube video (just change the url):
 7. This url would be https://zacharycompton.github.io/tutorial1knit
 
 ## Using Font-Awesome specialized fonts
-<a ref="https://fontawesome.com/v5/cheatsheet" target="_blank">Font-Awesome V5 Cheatsheet</>
+<a ref="https://fontawesome.com/v5/cheatsheet" target="_blank">Font-Awesome V5 Cheatsheet</a>
 ```
 <i class="fas fa-fw fa-chart-area">
 ```
