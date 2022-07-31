@@ -48,7 +48,7 @@ To add a light grey horizonal line to the page use:
 ```
 <hr>
 ```
-To add a hyperlink that will open in a new tab use(<sub>Helpful if you are visiting an external site</sub>):
+To add a hyperlink that will open in a new tab use(Helpful if you are visiting an external site):
 ```
 <a href="url" target="_blank">link text</a>
 ```
@@ -79,9 +79,9 @@ HTML to embed a youtube video (just change the url):
 	```
 3. Change the title, permalink, and redirect to reflect the new document
 4. Rename the file with the following naming format:
-	-```
-	YYYY-MM-DD-TITLE.html
-	```
+	- ```
+	  YYYY-MM-DD-TITLE.html
+	  ```
 5. Save the file to the _posts folder
 6. GIT push the changes to github
 7. This url would be https://zacharycompton.github.io/tutorial1knit
