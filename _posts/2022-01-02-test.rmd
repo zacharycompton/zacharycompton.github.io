@@ -1,5 +1,5 @@
 ---
-date: Sys_Date()
+date: '`r Sys.Date()`'
 layout: post
 output:
   md_document:
