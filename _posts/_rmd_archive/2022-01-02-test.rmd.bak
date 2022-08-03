@@ -1,4 +1,12 @@
-
+---
+date: '2022-08-03'
+layout: post
+output:
+  md_document:
+    preserve_yaml: true
+    variant: markdown_github
+permalink: /test1/
+title: RMD to Jekyll Testin
 ---
 
 ```{r setup, include=FALSE}
