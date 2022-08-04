@@ -14,11 +14,11 @@ redirect_from:
 
 - Don't forget to put a space in your headers and other modifiers, # Title, not #Title.
 
-- Visit the 'actions' tab of the repository on github to watch the gitpages batching process.  If you send two quick pushes before the first can batch, it will cancel the first batch, and restart it as one big update.
+- Visit the 'actions' tab of the repository on github to watch the gitpages batching process.  If you send two quick pushes before the first can batch, it will cancel the first batch, and restart it as one big update. Here is a direct link: <a href="https://github.com/zacharycompton/zacharycompton.github.io/actions" target="_blank">Github Actions</a>
 
 
 ## Editing the Site
-I suggest cloning the site into a dropbox folder and editing the site with notepad++ <a href="https://notepad-plus-plus.org/downloads/" target="_blank">Notepad++ Version Page</a>
+I suggest cloning the site into a dropbox folder and editing the site with <a href="https://notepad-plus-plus.org/downloads/" target="_blank">Notepad++</a>
 
 ## Use GIT Shell for pushing
 Establish your current directory of the clone first
