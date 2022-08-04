@@ -1,5 +1,10 @@
+--change this to your local repo clone location for when you open GIT Shell to quickly set your working directory
 cd /c/users/yaya/dropbox/githubsite/zacharycompton.github.io
 
+--Copy this including the blank line below the push and past into your GIT Shell for a quick push to github
 git add -A
 git commit -m "Casual Update"
 git push
+
+^include the blank line on your paste into the GIT Shell
+--
