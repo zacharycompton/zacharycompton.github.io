@@ -71,7 +71,7 @@ HTML to embed a youtube video (just change the url):
 	- ```
 	  YYYY-MM-DD-TITLE.rmd
 	  ```
-3. Knit it to HTML and place that HTML in the _Posts Website Folder.
+3. Knit it to HTML and place that HTML in the _Posts Website Folder. (highly recommended you use dropbox .../zacharycompton.github.io/_posts)
 3. Open the knitted html document in notepad++.
 4. Add the following front matter to the beginning of the document:
 	- ```

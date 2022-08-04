@@ -66,8 +66,14 @@ HTML to embed a youtube video (just change the url):
 ```
 
 ## Steps to add a knited html, from RStudio
-1. Open the knitted html document in notepad++
-2. Add the following front matter to the beginning of the document:
+1. Create your RMD.
+2. Name the file with the following naming format:
+	- ```
+	  YYYY-MM-DD-TITLE.rmd
+	  ```
+3. Knit it to HTML and place that HTML in the _Posts Website Folder.
+3. Open the knitted html document in notepad++.
+4. Add the following front matter to the beginning of the document:
 	- ```
 		---
 		layout: post
@@ -77,14 +83,19 @@ HTML to embed a youtube video (just change the url):
 			- /tutorial1knit.html
 		---
 	```
-3. Change the title, permalink, and redirect to reflect the new document
-4. Rename the file with the following naming format:
+5. Change the title, permalink, and redirect to reflect the new document and Save.
+7. GIT push the changes to github using GIT Shell.
 	- ```
-	  YYYY-MM-DD-TITLE.html
-	  ```
-5. Save the file to the _posts folder
-6. GIT push the changes to github
-7. This url would be https://zacharycompton.github.io/tutorial1knit
+		---
+		git add -A
+		git commit -m "Casual Update"
+		git push
+
+		---
+	```
+8. This url would be https://zacharycompton.github.io/tutorial1knit
+9. Use this inline HTML to reference the file, and open it in a new tab when clicked:
+	- <a href="https://zacharycompton.github.io/tutorial1knit" target="_blank">Tutorial 1 Knitted HTML</a>
 
 ## Using Font-Awesome specialized fonts
 <a href="https://fontawesome.com/v5/cheatsheet" target="_blank">Font-Awesome V5 Cheatsheet</a>
