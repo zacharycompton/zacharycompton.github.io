@@ -86,10 +86,11 @@ git config --global --list
 {: .notice}
 
 - Updating R through the RGui for Windows
+	- ![RGui](/images/Rgui.png)
 
 - Updating R through the Rgui for Mac/OSX
 
-- If the above fail, refer to the [Install Section Above](#install)
+- If the above fail, refer to the ![Install Section Above](#install)
 
 <hr>
 <br>
