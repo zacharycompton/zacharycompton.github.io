@@ -18,6 +18,7 @@ redirect_from:
 - <a href="https://bookdown.org/ndphillips/YaRrr/" target="_blank">YaRrr, a Pirates Guide to R</a>
 {:toc}
 
+<a name="install"></a>
 ## <i class="fas fa-fw fa-box-open"></i> Installation of R, Rstudio, GIT, and Github
 <font size=3>To learn R through ACE Scholar R Tutorials, follow these four key steps on your machine: install R, install R Studio, install GIT, and create a Github account.</font>
 
@@ -64,16 +65,33 @@ git config --global --list
 
 
 <a name="hubconnect"></a>
-## <i class="fa fa-link" aria-hidden="true"></i> Connect Your RStudio to ACE Tutorial Repository
+## <i class="fa fa-w" aria-hidden="true"></i> Connect Your RStudio to ACE Tutorial Repository
 
 **Notice!** Linking your RStudio to the ACE-Tutorial repository on Github will ensure the required files (csv, trees, etc) will automatically download into your working directory so that your R code can reference them.  However, if you have issues with your auto connection, we will provide direct links to the files below the video tutorials for manual placement.
 {: .notice}
 
 - Cloning the ACE-Tutorials within RStudio: <a href="https://happygitwithr.com/rstudio-git-github.html#clone-the-test-github-repository-to-your-computer-via-rstudio" target="_blank">Click Here</a>
 
-- Github URL: ```
-			 https://github.com/zacharycompton/ACE-Tutorials.git
-			 ```
+- Github URL:
+	-```
+	 https://github.com/zacharycompton/ACE-Tutorials.git
+	 ```
+<hr>
+<br>
+
+<a name="rupdate"></a>
+## <i class="fa fa-wrench" aria-hidden="true"></i> Updating your R version through your RGUI
+
+**Notice!** If you are having issues installing or updating packages in RStudio, it is probably because your computer has an outdated version of R.
+{: .notice}
+
+- Updating R through the RGui for Windows
+	- ![RGui](/images/Rgui.png)
+
+- Updating R through the Rgui for Mac/OSX
+
+- If the above fail, refer to the ![Install Section Above](#install)
+
 <hr>
 <br>
 		
