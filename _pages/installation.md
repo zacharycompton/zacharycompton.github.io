@@ -90,7 +90,7 @@ git config --global --list
 
 - Updating R through the Rgui for Mac/OSX
 
-- If the above fail, refer to the [Install Section Above](/install/#install)
+- If the above fail, refer to the [Install Section Above](#install)
 
 <hr>
 <br>
