@@ -75,22 +75,22 @@ HTML to embed a youtube video (just change the url):
 3. Open the knitted html document in notepad++.
 4. Add the following front matter to the beginning of the document:
 ```
----
-layout: post
-title: Tutorial 1 Knit
-permalink: /tutorial1knit/
-redirect_from:
-	- /tutorial1knit.html
----
+	---
+	layout: post
+	title: Tutorial 1 Knit
+	permalink: /tutorial1knit/
+	redirect_from:
+		- /tutorial1knit.html
+	---
 ```
 5. Change the title, permalink, and redirect to reflect the new document and Save.
 7. GIT push the changes to github using GIT Shell.
-	-```
-	git add -A
-	git commit -m "Casual Update"
-	git push
+```
+git add -A
+git commit -m "Casual Update"
+git push
 
-	```
+```
 8. This url would be https://zacharycompton.github.io/tutorial1knit
 9. Use this inline HTML to reference the file, and open it in a new tab when clicked:
 	- <a href="https://zacharycompton.github.io/tutorial1knit" target="_blank">Tutorial 1 Knitted HTML</a>
