@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Essential Dplyr
-permalink: /essentialdplyr/
+permalink: /essdplyr/
 redirect_from:
-  - /essentialdplyr.html
+  - /essdplyr.html
 ---
-  
+
 <!DOCTYPE html>
 
 <html>
@@ -444,19 +444,19 @@ Here</a></h6>
 <pre><code>## Rows: 10
 ## Columns: 4
 ## $ Species             &lt;chr&gt; &quot;chicken&quot;, &quot;duck&quot;, &quot;tiger&quot;, &quot;unicorn&quot;, &quot;rabbit&quot;, &quot;~
-## $ Lifespan            &lt;dbl&gt; 50.55200, 47.41262, 48.25639, 68.99521, 28.19870, ~
-## $ BodyMass            &lt;dbl&gt; 72.72368, 151.49246, 235.31464, 121.20527, 187.192~
-## $ NeoplasiaPrevalence &lt;dbl&gt; 17.24846, 24.19632, 13.66363, 14.73363, 13.30341, ~</code></pre>
+## $ Lifespan            &lt;dbl&gt; 29.79614, 37.16347, 37.32067, 66.99543, 46.51117, ~
+## $ BodyMass            &lt;dbl&gt; 204.54098, 227.07305, 131.26904, 145.43441, 198.41~
+## $ NeoplasiaPrevalence &lt;dbl&gt; 9.430672, 16.178037, 11.662199, 5.060421, 13.65962~</code></pre>
 <pre class="r"><code>head(Data)</code></pre>
 <pre><code>## # A tibble: 6 x 4
 ##   Species Lifespan BodyMass NeoplasiaPrevalence
 ##   &lt;chr&gt;      &lt;dbl&gt;    &lt;dbl&gt;               &lt;dbl&gt;
-## 1 chicken     50.6     72.7                17.2
-## 2 duck        47.4    151.                 24.2
-## 3 tiger       48.3    235.                 13.7
-## 4 unicorn     69.0    121.                 14.7
-## 5 rabbit      28.2    187.                 13.3
-## 6 monky       81.9    197.                 13.1</code></pre>
+## 1 chicken     29.8     205.                9.43
+## 2 duck        37.2     227.               16.2 
+## 3 tiger       37.3     131.               11.7 
+## 4 unicorn     67.0     145.                5.06
+## 5 rabbit      46.5     198.               13.7 
+## 6 monky       72.9     120.               20.6</code></pre>
 <div id="notice-that-both-functions-show-similar-data-in-a-different-orientation-whichever-you-use-is-going-to-be-preference.-head-is-a-built-in-function-that-can-be-used-on-all-data-types-while-glimpse-is-a-specific-dplyr-function-that-is-extremely-useful-on-medium-to-large-datasets." class="section level6">
 <h6><strong>Notice</strong> that both functions show similar data in a
 different orientation, whichever you use is going to be preference.
@@ -472,30 +472,30 @@ medium to large datasets.</h6>
 <pre><code>## # A tibble: 10 x 4
 ##    Species  Lifespan BodyMass NeoplasiaPrevalence
 ##    &lt;chr&gt;       &lt;dbl&gt;    &lt;dbl&gt;               &lt;dbl&gt;
-##  1 chicken      50.6     72.7                17.2
-##  2 duck         47.4    151.                 24.2
-##  3 tiger        48.3    235.                 13.7
-##  4 unicorn      69.0    121.                 14.7
-##  5 rabbit       28.2    187.                 13.3
-##  6 monky        81.9    197.                 13.1
-##  7 platypus     48.9    139.                 15.3
-##  8 rhino        66.1    123.                 13.0
-##  9 turkey       65.9     95.1                12.0
-## 10 hippo        44.9    179.                 20.3</code></pre>
+##  1 chicken      29.8    205.                 9.43
+##  2 duck         37.2    227.                16.2 
+##  3 tiger        37.3    131.                11.7 
+##  4 unicorn      67.0    145.                 5.06
+##  5 rabbit       46.5    198.                13.7 
+##  6 monky        72.9    120.                20.6 
+##  7 platypus     74.5    148.                 9.27
+##  8 rhino        31.3     98.8               13.3 
+##  9 turkey       67.1    126.                17.2 
+## 10 hippo        47.8    149.                14.9</code></pre>
 <pre class="r"><code>Data</code></pre>
 <pre><code>## # A tibble: 10 x 4
 ##    Species  Lifespan BodyMass NeoplasiaPrevalence
 ##    &lt;chr&gt;       &lt;dbl&gt;    &lt;dbl&gt;               &lt;dbl&gt;
-##  1 chicken      50.6     72.7                17.2
-##  2 duck         47.4    151.                 24.2
-##  3 tiger        48.3    235.                 13.7
-##  4 unicorn      69.0    121.                 14.7
-##  5 rabbit       28.2    187.                 13.3
-##  6 monky        81.9    197.                 13.1
-##  7 platypus     48.9    139.                 15.3
-##  8 rhino        66.1    123.                 13.0
-##  9 turkey       65.9     95.1                12.0
-## 10 hippo        44.9    179.                 20.3</code></pre>
+##  1 chicken      29.8    205.                 9.43
+##  2 duck         37.2    227.                16.2 
+##  3 tiger        37.3    131.                11.7 
+##  4 unicorn      67.0    145.                 5.06
+##  5 rabbit       46.5    198.                13.7 
+##  6 monky        72.9    120.                20.6 
+##  7 platypus     74.5    148.                 9.27
+##  8 rhino        31.3     98.8               13.3 
+##  9 turkey       67.1    126.                17.2 
+## 10 hippo        47.8    149.                14.9</code></pre>
 <p><br> <!--This is inline HTML to force a spacer between lines--></p>
 </div>
 <div id="the-pipe-operator" class="section level3">
@@ -521,16 +521,16 @@ print(Data.Lifespan)</code></pre>
 <pre><code>## # A tibble: 10 x 2
 ##    Species  Lifespan
 ##    &lt;chr&gt;       &lt;dbl&gt;
-##  1 chicken      50.6
-##  2 duck         47.4
-##  3 tiger        48.3
-##  4 unicorn      69.0
-##  5 rabbit       28.2
-##  6 monky        81.9
-##  7 platypus     48.9
-##  8 rhino        66.1
-##  9 turkey       65.9
-## 10 hippo        44.9</code></pre>
+##  1 chicken      29.8
+##  2 duck         37.2
+##  3 tiger        37.3
+##  4 unicorn      67.0
+##  5 rabbit       46.5
+##  6 monky        72.9
+##  7 platypus     74.5
+##  8 rhino        31.3
+##  9 turkey       67.1
+## 10 hippo        47.8</code></pre>
 <p>You can also select columns in a range using a colon between
 variables:</p>
 <pre><code>Data %&gt;% select(variable1:variable10, variable15)</code></pre>
@@ -542,14 +542,12 @@ variables:</p>
 columns to create a data subset. Type “?filter” in the console for more
 information.</p>
 <pre class="r"><code>Data %&gt;% filter(Lifespan &gt; 50, NeoplasiaPrevalence &lt; 20) </code></pre>
-<pre><code>## # A tibble: 5 x 4
-##   Species Lifespan BodyMass NeoplasiaPrevalence
-##   &lt;chr&gt;      &lt;dbl&gt;    &lt;dbl&gt;               &lt;dbl&gt;
-## 1 chicken     50.6     72.7                17.2
-## 2 unicorn     69.0    121.                 14.7
-## 3 monky       81.9    197.                 13.1
-## 4 rhino       66.1    123.                 13.0
-## 5 turkey      65.9     95.1                12.0</code></pre>
+<pre><code>## # A tibble: 3 x 4
+##   Species  Lifespan BodyMass NeoplasiaPrevalence
+##   &lt;chr&gt;       &lt;dbl&gt;    &lt;dbl&gt;               &lt;dbl&gt;
+## 1 unicorn      67.0     145.                5.06
+## 2 platypus     74.5     148.                9.27
+## 3 turkey       67.1     126.               17.2</code></pre>
 <pre class="r"><code>#make sure to use double equal signs when you want results equal to a value &quot;==&quot;</code></pre>
 <div id="notice-that-if-you-dont-assign-your-results-to-a-new-variable-dplyr-will-automatically-print-the-results.-this-is-useful-if-you-want-a-quick-look." class="section level6">
 <h6><strong>Notice</strong> that if you don’t assign your results to a
@@ -564,15 +562,18 @@ OR.</h6>
 <div id="is-the-symbol-for-or" class="section level3">
 <h3>3.1 “|” is the symbol for OR</h3>
 <pre class="r"><code>Data %&gt;% filter(Lifespan &gt; 60 | NeoplasiaPrevalence &lt; 15) </code></pre>
-<pre><code>## # A tibble: 6 x 4
-##   Species Lifespan BodyMass NeoplasiaPrevalence
-##   &lt;chr&gt;      &lt;dbl&gt;    &lt;dbl&gt;               &lt;dbl&gt;
-## 1 tiger       48.3    235.                 13.7
-## 2 unicorn     69.0    121.                 14.7
-## 3 rabbit      28.2    187.                 13.3
-## 4 monky       81.9    197.                 13.1
-## 5 rhino       66.1    123.                 13.0
-## 6 turkey      65.9     95.1                12.0</code></pre>
+<pre><code>## # A tibble: 9 x 4
+##   Species  Lifespan BodyMass NeoplasiaPrevalence
+##   &lt;chr&gt;       &lt;dbl&gt;    &lt;dbl&gt;               &lt;dbl&gt;
+## 1 chicken      29.8    205.                 9.43
+## 2 tiger        37.3    131.                11.7 
+## 3 unicorn      67.0    145.                 5.06
+## 4 rabbit       46.5    198.                13.7 
+## 5 monky        72.9    120.                20.6 
+## 6 platypus     74.5    148.                 9.27
+## 7 rhino        31.3     98.8               13.3 
+## 8 turkey       67.1    126.                17.2 
+## 9 hippo        47.8    149.                14.9</code></pre>
 <p><br> <!--This is inline HTML to force a spacer between lines--></p>
 </div>
 </div>
@@ -585,30 +586,30 @@ information.</p>
 <pre><code>## # A tibble: 10 x 2
 ##    Species  Lifespan
 ##    &lt;chr&gt;       &lt;dbl&gt;
-##  1 rabbit       28.2
-##  2 hippo        44.9
-##  3 duck         47.4
-##  4 tiger        48.3
-##  5 platypus     48.9
-##  6 chicken      50.6
-##  7 turkey       65.9
-##  8 rhino        66.1
-##  9 unicorn      69.0
-## 10 monky        81.9</code></pre>
+##  1 chicken      29.8
+##  2 rhino        31.3
+##  3 duck         37.2
+##  4 tiger        37.3
+##  5 rabbit       46.5
+##  6 hippo        47.8
+##  7 unicorn      67.0
+##  8 turkey       67.1
+##  9 monky        72.9
+## 10 platypus     74.5</code></pre>
 <pre class="r"><code>Data.Lifespan %&gt;% arrange(desc(Lifespan)) #reusing Data.Lifespan, easier to look at</code></pre>
 <pre><code>## # A tibble: 10 x 2
 ##    Species  Lifespan
 ##    &lt;chr&gt;       &lt;dbl&gt;
-##  1 monky        81.9
-##  2 unicorn      69.0
-##  3 rhino        66.1
-##  4 turkey       65.9
-##  5 chicken      50.6
-##  6 platypus     48.9
-##  7 tiger        48.3
-##  8 duck         47.4
-##  9 hippo        44.9
-## 10 rabbit       28.2</code></pre>
+##  1 platypus     74.5
+##  2 monky        72.9
+##  3 turkey       67.1
+##  4 unicorn      67.0
+##  5 hippo        47.8
+##  6 rabbit       46.5
+##  7 tiger        37.3
+##  8 duck         37.2
+##  9 rhino        31.3
+## 10 chicken      29.8</code></pre>
 <div id="notice-that-to-get-descending-results-you-nest-the-desc-function-inside-the-arrange-function.-this-is-rs-and-any-programming-languages-built-in-process-of-natural-piping-where-instead-of-piping-from-left-to-right-you-nest-the-functions-to-pipe-the-value-from-the-middle-out." class="section level6">
 <h6><strong>Notice</strong> that to get descending results, you ‘nest’
 the desc() function inside the arrange() function. This is R’s (and any
@@ -629,12 +630,12 @@ head(Data)</code></pre>
 <pre><code>## # A tibble: 6 x 5
 ##   Species Lifespan BodyMass NeoplasiaPrevalence Number_Of_Records
 ##   &lt;chr&gt;      &lt;dbl&gt;    &lt;dbl&gt;               &lt;dbl&gt;             &lt;int&gt;
-## 1 chicken     50.6     72.7                17.2               444
-## 2 duck        47.4    151.                 24.2               479
-## 3 tiger       48.3    235.                 13.7               533
-## 4 unicorn     69.0    121.                 14.7               697
-## 5 rabbit      28.2    187.                 13.3               841
-## 6 monky       81.9    197.                 13.1               530</code></pre>
+## 1 chicken     29.8     205.                9.43               990
+## 2 duck        37.2     227.               16.2                119
+## 3 tiger       37.3     131.               11.7                 64
+## 4 unicorn     67.0     145.                5.06               979
+## 5 rabbit      46.5     198.               13.7                 30
+## 6 monky       72.9     120.               20.6                415</code></pre>
 <div id="the-samplerange-size-is-a-built-in-r-function-that-generates-a-random-number-using-a-specified-range-and-size-length-of-vector." class="section level6">
 <h6>The <strong>sample(range, size)</strong> is a built in R function
 that generates a random number using a specified range and size (length
@@ -655,16 +656,16 @@ print(Data)</code></pre>
 <pre><code>## # A tibble: 10 x 5
 ##    Species  Lifespan BodyMass NeoplasiaPrevalence NumberOfRecords
 ##    &lt;chr&gt;       &lt;dbl&gt;    &lt;dbl&gt;               &lt;dbl&gt;           &lt;int&gt;
-##  1 chicken      50.6     72.7                17.2             444
-##  2 duck         47.4    151.                 24.2             479
-##  3 tiger        48.3    235.                 13.7             533
-##  4 unicorn      69.0    121.                 14.7             697
-##  5 rabbit       28.2    187.                 13.3             841
-##  6 monky        81.9    197.                 13.1             530
-##  7 platypus     48.9    139.                 15.3             507
-##  8 rhino        66.1    123.                 13.0             915
-##  9 turkey       65.9     95.1                12.0             482
-## 10 hippo        44.9    179.                 20.3             315</code></pre>
+##  1 chicken      29.8    205.                 9.43             990
+##  2 duck         37.2    227.                16.2              119
+##  3 tiger        37.3    131.                11.7               64
+##  4 unicorn      67.0    145.                 5.06             979
+##  5 rabbit       46.5    198.                13.7               30
+##  6 monky        72.9    120.                20.6              415
+##  7 platypus     74.5    148.                 9.27             184
+##  8 rhino        31.3     98.8               13.3              764
+##  9 turkey       67.1    126.                17.2              151
+## 10 hippo        47.8    149.                14.9               97</code></pre>
 <div id="notice-renaming-columns-can-also-be-done-during-a-select-mutate-and-transmute." class="section level6">
 <h6><strong>Notice</strong> renaming columns can also be done during a
 select(), mutate(), and transmute().</h6>
@@ -680,16 +681,16 @@ print(Data.BodyLifeRatio)</code></pre>
 <pre><code>## # A tibble: 10 x 4
 ##    Species  NeoplasiaPrevalence NumberOfRecords BodyLifeRatio
 ##    &lt;chr&gt;                  &lt;dbl&gt;           &lt;int&gt;         &lt;dbl&gt;
-##  1 chicken                 17.2             444          1.44
-##  2 duck                    24.2             479          3.20
-##  3 tiger                   13.7             533          4.88
-##  4 unicorn                 14.7             697          1.76
-##  5 rabbit                  13.3             841          6.64
-##  6 monky                   13.1             530          2.41
-##  7 platypus                15.3             507          2.85
-##  8 rhino                   13.0             915          1.86
-##  9 turkey                  12.0             482          1.44
-## 10 hippo                   20.3             315          3.99</code></pre>
+##  1 chicken                 9.43             990          6.86
+##  2 duck                   16.2              119          6.11
+##  3 tiger                  11.7               64          3.52
+##  4 unicorn                 5.06             979          2.17
+##  5 rabbit                 13.7               30          4.27
+##  6 monky                  20.6              415          1.64
+##  7 platypus                9.27             184          1.99
+##  8 rhino                  13.3              764          3.16
+##  9 turkey                 17.2              151          1.88
+## 10 hippo                  14.9               97          3.11</code></pre>
 <div id="notice-that-we-were-able-to-exclude-the-original-lifespan-and-bodymass-variables-and-create-a-new-ratio-variable-bodyliferatio." class="section level6">
 <h6><strong>Notice</strong> that we were able to exclude the original
 “Lifespan”, and “BodyMass” variables, and create a new ratio variable
@@ -706,16 +707,16 @@ print(Data)</code></pre>
 <pre><code>## # A tibble: 10 x 5
 ##    Species  Lifespan BodyMass NeoplasiaPrevalence NumberOfRecords
 ##    &lt;chr&gt;       &lt;dbl&gt;    &lt;dbl&gt;               &lt;dbl&gt;           &lt;int&gt;
-##  1 chicken      50.6     72.7                17.2             444
-##  2 duck         47.4    151.                 24.2             479
-##  3 tiger        48.3    235.                 13.7             533
-##  4 unicorn      69.0    121.                 14.7             697
-##  5 rabbit       28.2    187.                 13.3             841
-##  6 monky        81.9    197.                 13.1             530
-##  7 platypus     48.9    139.                 15.3             507
-##  8 rhino        66.1    123.                 13.0             915
-##  9 turkey       65.9     95.1                12.0             482
-## 10 hippo        44.9    179.                 20.3             315</code></pre>
+##  1 chicken      29.8    205.                 9.43             990
+##  2 duck         37.2    227.                16.2              119
+##  3 tiger        37.3    131.                11.7               64
+##  4 unicorn      67.0    145.                 5.06             979
+##  5 rabbit       46.5    198.                13.7               30
+##  6 monky        72.9    120.                20.6              415
+##  7 platypus     74.5    148.                 9.27             184
+##  8 rhino        31.3     98.8               13.3              764
+##  9 turkey       67.1    126.                17.2              151
+## 10 hippo        47.8    149.                14.9               97</code></pre>
 <div id="notice-that-you-can-move-multiple-columns-at-a-time-using-commas-between-or-colon-to-represent-a-range." class="section level6">
 <h6><strong>Notice</strong> that you can move multiple columns at a time
 using commas between, or colon to represent a range.</h6>
@@ -734,12 +735,12 @@ head(Data)</code></pre>
 <pre><code>## # A tibble: 6 x 6
 ##   Species Lifespan BodyMass NeoplasiaPrevalence BodyLifeRatio NumberOfRecords
 ##   &lt;chr&gt;      &lt;dbl&gt;    &lt;dbl&gt;               &lt;dbl&gt;         &lt;dbl&gt;           &lt;int&gt;
-## 1 chicken     50.6     72.7                17.2          1.44             444
-## 2 duck        47.4    151.                 24.2          3.20             479
-## 3 tiger       48.3    235.                 13.7          4.88             533
-## 4 unicorn     69.0    121.                 14.7          1.76             697
-## 5 rabbit      28.2    187.                 13.3          6.64             841
-## 6 monky       81.9    197.                 13.1          2.41             530</code></pre>
+## 1 chicken     29.8     205.                9.43          6.86             990
+## 2 duck        37.2     227.               16.2           6.11             119
+## 3 tiger       37.3     131.               11.7           3.52              64
+## 4 unicorn     67.0     145.                5.06          2.17             979
+## 5 rabbit      46.5     198.               13.7           4.27              30
+## 6 monky       72.9     120.               20.6           1.64             415</code></pre>
 <div id="notice-again-the-argument-or-attribute-attr-.before-and-.after-to-help-specify-where-you-would-like-the-new-column-to-exist." class="section level6">
 <h6><strong>Notice</strong> again, the argument or attribute (attr)
 “.before” and “.after” to help specify where you would like the new
@@ -748,8 +749,8 @@ column to exist.</h6>
 </div>
 </div>
 </div>
-<div id="summarizesummarise-functionss" class="section level2">
-<h2>9. summarize()/summarise() functions(s)</h2>
+<div id="summarizesummarise-function" class="section level2">
+<h2>9. summarize()/summarise() function</h2>
 <p>Some examples of functions that can be used in the summarize() or
 summarise() function. For more information, you can type ‘?summarize’
 into the RStudio console.</p>
@@ -764,14 +765,14 @@ into the RStudio console.</p>
 glimpse(Data.Summarized)</code></pre>
 <pre><code>## Rows: 1
 ## Columns: 8
-## $ NeoPrevMean      &lt;dbl&gt; 15.68426
-## $ TotalRecords     &lt;int&gt; 5743
-## $ MinLifespan      &lt;dbl&gt; 28.1987
-## $ MaxLifespan      &lt;dbl&gt; 81.89011
-## $ NeoPrevSD        &lt;dbl&gt; 3.860639
-## $ NeoPrevIQR       &lt;dbl&gt; 3.630211
-## $ LifespanVariance &lt;dbl&gt; 237.9038
-## $ BodyMassMAD      &lt;dbl&gt; 56.05946</code></pre>
+## $ NeoPrevMean      &lt;dbl&gt; 13.13489
+## $ TotalRecords     &lt;int&gt; 3793
+## $ MinLifespan      &lt;dbl&gt; 29.79614
+## $ MaxLifespan      &lt;dbl&gt; 74.52473
+## $ NeoPrevSD        &lt;dbl&gt; 4.483986
+## $ NeoPrevIQR       &lt;dbl&gt; 5.878531
+## $ LifespanVariance &lt;dbl&gt; 310.6194
+## $ BodyMassMAD      &lt;dbl&gt; 34.99349</code></pre>
 <div id="notice-that-summarize-and-summarise-are-syntax-synonyms." class="section level6">
 <h6><strong>Notice</strong> that summarize() and summarise() are syntax
 synonyms.</h6>
@@ -794,12 +795,12 @@ head(Data.Group)</code></pre>
 <pre><code>## # A tibble: 6 x 6
 ##   Species Lifespan BodyMass NeoplasiaPrevalence BodyLifeRatio NumberOfRecords
 ##   &lt;chr&gt;      &lt;dbl&gt;    &lt;dbl&gt;               &lt;dbl&gt;         &lt;dbl&gt;           &lt;int&gt;
-## 1 chicken     50.6     72.7                17.2          1.44             444
-## 2 chicken     50.6     72.7                17.2          1.44             444
-## 3 chicken     50.6     72.7                17.2          1.44             444
-## 4 duck        47.4    151.                 24.2          3.20             479
-## 5 duck        47.4    151.                 24.2          3.20             479
-## 6 duck        47.4    151.                 24.2          3.20             479</code></pre>
+## 1 chicken     29.8     205.                9.43          6.86             990
+## 2 chicken     29.8     205.                9.43          6.86             990
+## 3 chicken     29.8     205.                9.43          6.86             990
+## 4 duck        37.2     227.               16.2           6.11             119
+## 5 duck        37.2     227.               16.2           6.11             119
+## 6 duck        37.2     227.               16.2           6.11             119</code></pre>
 <p>As you can see above, we added Data to itself twice, and now we have
 3 copies of each species. Now we can use group_by() to count.</p>
 <pre class="r"><code>Data.Group %&gt;% group_by(Species) %&gt;% summarize(Count = n())</code></pre>
@@ -820,16 +821,16 @@ head(Data.Group)</code></pre>
 <pre><code>## # A tibble: 30 x 6
 ##    Species Lifespan BodyMass NeoplasiaPrevalence BodyLifeRatio NumberOfRecords
 ##    &lt;chr&gt;      &lt;dbl&gt;    &lt;dbl&gt;               &lt;dbl&gt;         &lt;dbl&gt;           &lt;int&gt;
-##  1 chicken     50.6     72.7                17.2          1.44             444
-##  2 chicken     50.6     72.7                17.2          1.44             444
-##  3 chicken     50.6     72.7                17.2          1.44             444
-##  4 duck        47.4    151.                 24.2          3.20             479
-##  5 duck        47.4    151.                 24.2          3.20             479
-##  6 duck        47.4    151.                 24.2          3.20             479
-##  7 hippo       44.9    179.                 20.3          3.99             315
-##  8 hippo       44.9    179.                 20.3          3.99             315
-##  9 hippo       44.9    179.                 20.3          3.99             315
-## 10 monky       81.9    197.                 13.1          2.41             530
+##  1 chicken     29.8     205.                9.43          6.86             990
+##  2 chicken     29.8     205.                9.43          6.86             990
+##  3 chicken     29.8     205.                9.43          6.86             990
+##  4 duck        37.2     227.               16.2           6.11             119
+##  5 duck        37.2     227.               16.2           6.11             119
+##  6 duck        37.2     227.               16.2           6.11             119
+##  7 hippo       47.8     149.               14.9           3.11              97
+##  8 hippo       47.8     149.               14.9           3.11              97
+##  9 hippo       47.8     149.               14.9           3.11              97
+## 10 monky       72.9     120.               20.6           1.64             415
 ## # ... with 20 more rows</code></pre>
 <div id="notice-you-can-see-that-species-was-grouped-by-its-unique-name-and-the-function-n-was-used-to-count-how-many-records-there-were." class="section level6">
 <h6><strong>Notice</strong> you can see that ‘Species’ was grouped by
@@ -875,27 +876,27 @@ specifically want.</p>
 <pre><code>## # A tibble: 10 x 6
 ##    Species  Lifespan BodyMass NeoplasiaPrevalence BodyLifeRatio NumberOfRecords
 ##    &lt;chr&gt;       &lt;dbl&gt;    &lt;dbl&gt;               &lt;dbl&gt;         &lt;dbl&gt;           &lt;int&gt;
-##  1 chicken      50.6     72.7                17.2          1.44             444
-##  2 duck         47.4    151.                 24.2          3.20             479
-##  3 tiger        48.3    235.                 13.7          4.88             533
-##  4 unicorn      69.0    121.                 14.7          1.76             697
-##  5 rabbit       28.2    187.                 13.3          6.64             841
-##  6 monky        81.9    197.                 13.1          2.41             530
-##  7 platypus     48.9    139.                 15.3          2.85             507
-##  8 rhino        66.1    123.                 13.0          1.86             915
-##  9 turkey       65.9     95.1                12.0          1.44             482
-## 10 hippo        44.9    179.                 20.3          3.99             315</code></pre>
+##  1 chicken      29.8    205.                 9.43          6.86             990
+##  2 duck         37.2    227.                16.2           6.11             119
+##  3 tiger        37.3    131.                11.7           3.52              64
+##  4 unicorn      67.0    145.                 5.06          2.17             979
+##  5 rabbit       46.5    198.                13.7           4.27              30
+##  6 monky        72.9    120.                20.6           1.64             415
+##  7 platypus     74.5    148.                 9.27          1.99             184
+##  8 rhino        31.3     98.8               13.3           3.16             764
+##  9 turkey       67.1    126.                17.2           1.88             151
+## 10 hippo        47.8    149.                14.9           3.11              97</code></pre>
 <pre class="r"><code>Data.Slice &lt;- Data %&gt;% slice(1, 2, 5:8)
 print(Data.Slice)</code></pre>
 <pre><code>## # A tibble: 6 x 6
 ##   Species  Lifespan BodyMass NeoplasiaPrevalence BodyLifeRatio NumberOfRecords
 ##   &lt;chr&gt;       &lt;dbl&gt;    &lt;dbl&gt;               &lt;dbl&gt;         &lt;dbl&gt;           &lt;int&gt;
-## 1 chicken      50.6     72.7                17.2          1.44             444
-## 2 duck         47.4    151.                 24.2          3.20             479
-## 3 rabbit       28.2    187.                 13.3          6.64             841
-## 4 monky        81.9    197.                 13.1          2.41             530
-## 5 platypus     48.9    139.                 15.3          2.85             507
-## 6 rhino        66.1    123.                 13.0          1.86             915</code></pre>
+## 1 chicken      29.8    205.                 9.43          6.86             990
+## 2 duck         37.2    227.                16.2           6.11             119
+## 3 rabbit       46.5    198.                13.7           4.27              30
+## 4 monky        72.9    120.                20.6           1.64             415
+## 5 platypus     74.5    148.                 9.27          1.99             184
+## 6 rhino        31.3     98.8               13.3           3.16             764</code></pre>
 <div id="or-rows-you-dont-want-using-the-minus---sign-in-front." class="section level3">
 <h3>12.1 Or rows you don’t want, using the minus “-” sign in front.</h3>
 <pre class="r"><code>Data.Slice &lt;- Data %&gt;% slice(-1, -2, -(5:8))
@@ -903,10 +904,10 @@ print(Data.Slice)</code></pre>
 <pre><code>## # A tibble: 4 x 6
 ##   Species Lifespan BodyMass NeoplasiaPrevalence BodyLifeRatio NumberOfRecords
 ##   &lt;chr&gt;      &lt;dbl&gt;    &lt;dbl&gt;               &lt;dbl&gt;         &lt;dbl&gt;           &lt;int&gt;
-## 1 tiger       48.3    235.                 13.7          4.88             533
-## 2 unicorn     69.0    121.                 14.7          1.76             697
-## 3 turkey      65.9     95.1                12.0          1.44             482
-## 4 hippo       44.9    179.                 20.3          3.99             315</code></pre>
+## 1 tiger       37.3     131.               11.7           3.52              64
+## 2 unicorn     67.0     145.                5.06          2.17             979
+## 3 turkey      67.1     126.               17.2           1.88             151
+## 4 hippo       47.8     149.               14.9           3.11              97</code></pre>
 </div>
 </div>
 <div id="a-link-to-the-dplyr-cheat-sheet-click-here" class="section level1">
