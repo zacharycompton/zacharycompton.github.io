@@ -86,11 +86,11 @@ git config --global --list
 {: .notice}
 
 - Example of the RGui terminal located in your R folder
-![RGui](/images/RGui.png)<img src="/images/RGui.png"  width=50% height=50%>
+![RGui](/images/RGui.png)
 
 - Updating R through the Rgui for Windows/Mac/OSX:  <a href="https://www.linkedin.com/pulse/3-methods-update-r-rstudio-windows-mac-woratana-ngarmtrakulchol" target="_blank">Click Here</a>
 
-- If the above fail, refer to the [Install Section Above](#install)
+- If the above fail, refer to the [Install Section Above](#install) for a fresh install.
 
 <hr>
 <br>
