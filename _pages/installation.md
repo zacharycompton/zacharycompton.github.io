@@ -65,7 +65,7 @@ git config --global --list
 
 
 <a name="hubconnect"></a>
-## <i class="fa fa-github" aria-hidden="true"></i> Connect Your RStudio to ACE Tutorial Repository
+## <i class="fa fa-code-branch" aria-hidden="true"></i> Connect Your RStudio to ACE Tutorial Repository
 
 **Notice!** Linking your RStudio to the ACE-Tutorial repository on Github will ensure the required files (csv, trees, etc) will automatically download into your working directory so that your R code can reference them.  However, if you have issues with your auto connection, we will provide direct links to the files below the video tutorials for manual placement.
 {: .notice}
@@ -85,10 +85,10 @@ git config --global --list
 **Notice!** If you are having issues installing or updating packages in RStudio, it is probably because your computer has an outdated version of R.
 {: .notice}
 
-- Updating R through the RGui for Windows
+- Example of the RGui terminal located in your R folder
 	- ![RGui](/images/RGui.png)
 
-- Updating R through the Rgui for Mac/OSX
+- Updating R through the Rgui for Windows/Mac/OSX:  <a href="https://www.linkedin.com/pulse/3-methods-update-r-rstudio-windows-mac-woratana-ngarmtrakulchol" target="_blank">Click Here</a>
 
 - If the above fail, refer to the [Install Section Above](#install)
 
