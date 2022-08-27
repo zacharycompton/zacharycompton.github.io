@@ -24,19 +24,18 @@ redirect_from:
 <a name="rintro1"><a/>
 ## <i class="fas fa-fw fa-laptop-code"></i> Introduction #1: R Orientation
 			
-<center><iframe width="560" height="315" src="https://youtu.be/LxnmrknUTv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LxnmrknUTv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<b>Tutorial #1 Links</b>
 <br>
 <hr>
 <br>
 <br>
 <!-- ######################################################## TO HERE -->
 <!-- COPY FROM HERE ########################################### -->
-<a name="rintro1"><a/>
+<a name="rtutorial1"><a/>
 ## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #1: Coming Soon!
 			
-<center><iframe width="560" height="315" src="https://youtu.be/LxnmrknUTv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<!-- <center><iframe width="560" height="315" src="https://youtu.be/LxnmrknUTv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> -->
 <br>
 <b>Tutorial #1 Links</b>
 
