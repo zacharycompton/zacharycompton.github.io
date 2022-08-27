@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Tips
+## <i class="fas fa-cloud-download"></i> Tips
 - If you're copying pages, creating new pages, ensure that your front matter code doesn't have overlaping permalinks, otherwise the page that gets batched last (alphabetically) will take the permalink.
 	
 - Markdown tables can be very touchy.  Make sure you have space between them and other content, and you don't have odd symbols like colons preceding them, or they might not build properly.
