@@ -22,7 +22,7 @@ redirect_from:
 <br>
 <!-- COPY FROM HERE ########################################### -->
 <a name="rintro1"><a/>
-## <i class="fa fa-sparkles" aria-hidden="true"></i> Introduction #1: R Orientation
+## <i class="fa fa-baby-carriage" aria-hidden="true"></i> Introduction #1: R Orientation
 			
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LxnmrknUTv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
