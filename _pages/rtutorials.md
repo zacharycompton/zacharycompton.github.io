@@ -23,7 +23,7 @@ redirect_from:
 <!-- COPY FROM HERE ########################################### -->
 <a name="rintro1"><a/>
 ## <i class="fas fa-fw fa-user"></i> Introduction #1: R Orientation
-			
+A quick overview on RStudio, packages, working directories, and simple commands.			
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LxnmrknUTv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
