@@ -1,14 +1,9 @@
 ---
-permalink: /rtutorials/
+permalink: /example/
 title: '<font size=6><center><i class="fas fa-fw fa-chart-area"></i> ACE Scholars R Tutorial Portal</center></font>'
 excerpt: "R Tutorials"
 toc: false
 author_profile: false
-redirect_from: 
-  - /rtutorial
-  - /r
-  - /rtutorials.html
-  - /rtutorials
 ---
 <center><a href="https://zacharycompton.github.io/installation/">Installation Guide</a> • R Tutorials </center>
 <hr>
