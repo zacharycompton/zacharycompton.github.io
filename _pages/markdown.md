@@ -102,7 +102,7 @@ HTML to embed a youtube video (just change the url):
 ## Using Font-Awesome specialized fonts
 <a href="https://fontawesome.com/v5/cheatsheet" target="_blank">Font-Awesome V5 Cheatsheet</a>
 ```
-<i class="fas fa-fw fa-chart-area">
+<i class="fas fa-fw fa-chart-area"></i>
 ```
 Or
 ```
