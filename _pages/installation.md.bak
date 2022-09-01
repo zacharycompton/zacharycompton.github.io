@@ -79,7 +79,6 @@ git config --global --list
 <br>
 ### <i class="fa fa-download" aria-hidden="true"></i> How to manually download a file from Github repository.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ulv6-oTOaII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
 <hr>
 <br>
 
