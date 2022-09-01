@@ -74,6 +74,12 @@ git config --global --list
 	| ---------			| -------- |
 	| Alternative Guide | <a href="https://happygitwithr.com/rstudio-git-github.html#clone-the-test-github-repository-to-your-computer-via-rstudio" target="_blank">Click Here</a> |
 	| Github URL		| https://github.com/zacharycompton/ACE-Tutorials.git |
+	
+	| Operating System  | Guide	 |
+	| --------          | ------ |
+	| Windows           | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio" target="_blank">Install Rstudio</a>   |
+	| Mac OSX           | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio-and-r-packages" target="_blank">Install Rstudio</a>   |
+	| Ubuntu            | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio-and-r-packages" target="_blank">Install Rstudio</a>   |
 
 <br>
 ### <i class="fa fa-download" aria-hidden="true"></i> How to manually download a file from Github repository.
