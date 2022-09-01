@@ -69,10 +69,9 @@ git config --global --list
 
 **Notice!** Linking your RStudio to the ACE-Tutorial repository on Github will ensure the required files (csv, trees, etc) will automatically download into your working directory so that your R code can reference them.  However, if you have issues with your auto connection, we will provide direct links to the files below the video tutorials for manual placement.
 {: .notice}
-<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hqRzMsMAKY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-- Cloning the ACE-Tutorials within RStudio: <a href="https://happygitwithr.com/rstudio-git-github.html#clone-the-test-github-repository-to-your-computer-via-rstudio" target="_blank">Click Here</a>
+- **Alternative Guide** to cloning the ACE-Tutorials within RStudio: <a href="https://happygitwithr.com/rstudio-git-github.html#clone-the-test-github-repository-to-your-computer-via-rstudio" target="_blank">Click Here</a>
 
 - Github URL:
 	-```
