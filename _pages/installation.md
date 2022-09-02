@@ -71,15 +71,8 @@ git config --global --list
 {: .notice}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hqRzMsMAKY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-	| ---------			| -------- |
-	| Alternative Guide | <a href="https://happygitwithr.com/rstudio-git-github.html#clone-the-test-github-repository-to-your-computer-via-rstudio" target="_blank">Click Here</a> |
-	| Github URL		| https://github.com/zacharycompton/ACE-Tutorials.git |
-	
-	| Operating System  | Guide	 |
-	| --------          | ------ |
-	| Windows           | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio" target="_blank">Install Rstudio</a>   |
-	| Mac OSX           | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio-and-r-packages" target="_blank">Install Rstudio</a>   |
-	| Ubuntu            | <a href="https://www.datacamp.com/tutorial/installing-R-windows-mac-ubuntu#installing-rstudio-and-r-packages" target="_blank">Install Rstudio</a>   |
+- Alternative Guide to linking to Github: <a href="https://happygitwithr.com/rstudio-git-github.html#clone-the-test-github-repository-to-your-computer-via-rstudio" target="_blank">Click Here</a>
+- ACE Tutorials Github URL:	 https://github.com/zacharycompton/ACE-Tutorials.git
 
 <br>
 ### <i class="fa fa-download" aria-hidden="true"></i> How to manually download a file from Github repository.
