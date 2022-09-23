@@ -43,7 +43,29 @@ A quick overview on RStudio, packages, working directories, and simple commands.
 | Required Files | <a href="" target="_blank"></a> | Ensure this file is in the same folder as your .RMD |
 | R Markdown | <a href="" target="_blank"></a>	| This file can be opened in RStudio for reference |
 | Knited HTML |	<a href="" target="_blank"></a> | This file will be opened in a new browser tab to show what the final knited document will look like |
-| Student Submittion Folder | <a href="https://drive.google.com/drive/folders/1tFrWxA_g0L98uM-RRpYevKEtHoed_vDe" target="_blank">Google Drive Folder</a>	| Submit your final knited .HTML document here |
+| Student Submittion Folder | <a href="https://drive.google.com/drive/folders/1d6VtGu1zCdrKInzRAUAagl8vsfRB8Ofc?usp=sharing" target="_blank">Google Drive Folder</a>	| Submit your final knited .HTML document here |
+
+<hr>
+<br>
+<br>
+<!-- ######################################################## TO HERE -->
+<!-- ######################################################## TO HERE -->
+<!-- COPY FROM HERE ########################################### -->
+<a name="rtutorial2"><a/>
+## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #2: Tidyverse Data Visualization!
+			
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/qcqpOckeXTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<br>
+<b>Tutorial #2 Links</b>
+
+| Tutorial Requirements  | Label/Link	 | Description |
+| -------- | ------ | ------ |
+| Required Packages | Tidyverse | Ensure these packages are installed and initialized using install.packages() and library() functions in your .RMD within RStudio |
+| Required Files | N/A <a href="" target="_blank"></a> | Ensure this file is in the same folder as your .RMD |
+| R Markdown | N/A<a href="" target="_blank"></a>	| This file can be opened in RStudio for reference |
+| Knited HTML |	N/A <a href="" target="_blank"></a> | This file will be opened in a new browser tab to show what the final knited document will look like |
+| Student Submittion Folder | <a href="https://drive.google.com/drive/folders/1daKOoXTDjoMi2uHzHHUCuidjDDbnrsjj" target="_blank">Google Drive Folder</a>	| Submit your final knited .HTML document here |
+| 9.23 Live Tutorial | N/A N/A<a href="" target="_blank"></a> | This is the LIVE version of the Tutorial|
 
 <hr>
 <br>
