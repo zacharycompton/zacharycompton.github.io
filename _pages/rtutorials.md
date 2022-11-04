@@ -65,13 +65,34 @@ A quick overview on RStudio, packages, working directories, and simple commands.
 | R Markdown | N/A <a href="" target="_blank"></a>	| This file can be opened in RStudio for reference |
 | Knited HTML |	N/A <a href="" target="_blank"></a> | This file will be opened in a new browser tab to show what the final knited document will look like |
 | Student Submittion Folder | <a href="https://drive.google.com/drive/folders/1daKOoXTDjoMi2uHzHHUCuidjDDbnrsjj" target="_blank">Google Drive Folder</a>	| Submit your final knited .HTML document here |
-| 9.23 Live Tutorial | Available after 9.23 <a href="" target="_blank"></a> | This is the LIVE version of the Tutorial|
+| 9.23 Live Tutorial | Available after 9.23 <a href="https://asu.zoom.us/rec/share/DMGmmgrWIAYO2W5vk9dzbHqu8HVStnmn6yK-tdfAFbqqUxS6_e4pNwyI-KCDwpdR.BG2FumdXi3EpCeKg " target="_blank"></a> | Password: @3MMSyVg -- This is the LIVE version of the Tutorial|
 
 <hr>
 <br>
 <br>
 <!-- ######################################################## TO HERE -->
-<a name="rtutorial2"></a>
+<!-- COPY FROM HERE ########################################### -->
+<a name="rtutorial3"><a/>
+## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #3: Brownian Motion
+			
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/LdFk6615l9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<br>
+<b>Tutorial #3 Links</b>
+
+| Tutorial Requirements  | Label/Link	 | Description |
+| -------- | ------ | ------ |
+| Required Packages | N/A | -- |
+| Required Files | N/A | -- |
+| R Markdown | N/A	| -- |
+| Knited HTML |	N/A | This file will be opened in a new browser tab to show what the final knited document will look like |
+| Student Submittion Folder | <a href="https://drive.google.com/drive/folders/1FhVemjGcEtFza9boEymPBgTPaI4lGT9-" target="_blank">Google Drive Folder</a>	| Submit your code here |
+| 11.4 Live Tutorial | Available after 11.4 <a href="" target="_blank"></a> | This is the LIVE version of the Tutorial|
+
+<hr>
+<br>
+<br>
+<!-- ######################################################## TO HERE -->
+
 
 <hr>
 <br>

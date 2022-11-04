@@ -60,12 +60,12 @@ A quick overview on RStudio, packages, working directories, and simple commands.
 
 | Tutorial Requirements  | Label/Link	 | Description |
 | -------- | ------ | ------ |
-| Required Packages | Tidyverse | Ensure these packages are installed and initialized using install.packages() and library() functions in your .RMD within RStudio |
-| Required Files | N/A <a href="" target="_blank"></a> | Ensure this file is in the same folder as your .RMD |
-| R Markdown | N/A<a href="" target="_blank"></a>	| This file can be opened in RStudio for reference |
+| Required Packages | Tidyverse(ggplot2), ggplot2(diamond) dataset | You will only have to install and initialize tidyverse, but that within ggplot2 exists a generic dataset called 'diamonds' |
+| Required Files | No External Files <a href="" target="_blank"></a> | Ensure this file is in the same folder as your .RMD |
+| R Markdown | N/A <a href="" target="_blank"></a>	| This file can be opened in RStudio for reference |
 | Knited HTML |	N/A <a href="" target="_blank"></a> | This file will be opened in a new browser tab to show what the final knited document will look like |
 | Student Submittion Folder | <a href="https://drive.google.com/drive/folders/1daKOoXTDjoMi2uHzHHUCuidjDDbnrsjj" target="_blank">Google Drive Folder</a>	| Submit your final knited .HTML document here |
-| 9.23 Live Tutorial | N/A N/A<a href="" target="_blank"></a> | This is the LIVE version of the Tutorial|
+| 9.23 Live Tutorial | Available after 9.23 <a href="" target="_blank"></a> | This is the LIVE version of the Tutorial|
 
 <hr>
 <br>
