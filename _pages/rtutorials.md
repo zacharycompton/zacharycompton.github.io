@@ -30,29 +30,6 @@ A quick overview on RStudio, packages, working directories, and simple commands.
 <br>
 <!-- ######################################################## TO HERE -->
 <!-- COPY FROM HERE ########################################### -->
-<!-- This tutorial was scuffed during the live tutorial and needs to be rerecorded
-<a name="rtutorial1"><a/>
-## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #1: Coming Soon!
-			
-
-<br>
-<b>Tutorial #1 Links</b>
-
-| Tutorial Requirements  | Label/Link	 | Description |
-| -------- | ------ | ------ |
-| Required Packages |  | Ensure these packages are installed and initialized using install.packages() and library() functions in your .RMD within RStudio |
-| Required Files | <a href="" target="_blank"></a> | Ensure this file is in the same folder as your .RMD |
-| R Markdown | <a href="" target="_blank"></a>	| This file can be opened in RStudio for reference |
-| Knited HTML |	<a href="" target="_blank"></a> | This file will be opened in a new browser tab to show what the final knited document will look like |
-| Student Submittion Folder | <a href="https://drive.google.com/drive/folders/1d6VtGu1zCdrKInzRAUAagl8vsfRB8Ofc?usp=sharing" target="_blank">Google Drive Folder</a>	| Submit your final knited .HTML document here |
-
-<hr>
-<br>
-<br> 
--->
-<!-- ######################################################## TO HERE -->
-<!-- ######################################################## TO HERE -->
-<!-- COPY FROM HERE ########################################### -->
 <a name="rtutorial2"><a/>
 ## <i class="fas fa-fw fa-laptop-code"></i> Tutorial #2: Tidyverse Data Visualization!
 			

@@ -67,7 +67,7 @@ A quick overview on RStudio, packages, working directories, and simple commands.
 | R Markdown | N/A <a href="" target="_blank"></a>	| This file can be opened in RStudio for reference |
 | Knited HTML |	N/A <a href="" target="_blank"></a> | This file will be opened in a new browser tab to show what the final knited document will look like |
 | Student Submittion Folder | <a href="https://drive.google.com/drive/folders/1daKOoXTDjoMi2uHzHHUCuidjDDbnrsjj" target="_blank">Google Drive Folder</a>	| Submit your final knited .HTML document here |
-| 9.23 Live Tutorial | Available after 9.23 <a href="https://asu.zoom.us/rec/share/DMGmmgrWIAYO2W5vk9dzbHqu8HVStnmn6yK-tdfAFbqqUxS6_e4pNwyI-KCDwpdR.BG2FumdXi3EpCeKg" target="_blank"></a> | Password: @3MMSyVg -- This is the LIVE version of the Tutorial|
+| 9.23 Live Tutorial | Available after 9.23 <a href="https://asu.zoom.us/rec/share/DMGmmgrWIAYO2W5vk9dzbHqu8HVStnmn6yK-tdfAFbqqUxS6_e4pNwyI-KCDwpdR.BG2FumdXi3EpCeKg" target="_blank">Click Here</a> | Password: @3MMSyVg -- This is the LIVE version of the Tutorial|
 
 <hr>
 <br>
